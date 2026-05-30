@@ -11,8 +11,8 @@ App for learning foreign languages on Raspberry Pi Zero W.
 - Waveshare 3.5" SPI displej
 
 ## Languages
-- Nemački
-- Francuski (soon)
+- German
+- French (soon)
 
 ## Booting
 ```bash
