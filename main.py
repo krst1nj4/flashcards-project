@@ -17,8 +17,26 @@ def save_progress(progress, path = "progress.json"):
     with open(path, "w") as f:
         json.dump(progress, f, indent=2)
 
-def order_by_priority():
-    
+def order_by_priority(cards, progress):
+    def priority(k):
+        level = progress.get(str(k["id"]), {}).get("level", 1)
+        return level
+    return sorted(cards, key=priority)
+
+def level_up(card, knew, progress):
+    if str(card["id"]) not in progress:
+        progress[str(card["id"])] = {
+            "level": 1,
+            "correct": 0,
+            "false": 0
+        }
+    level = progress[str(card["id"])]["level"]
+    if knew == True:
+        progress[str(card["id"])]["level"] = min(5, level + 1)
+        progress[str(card["id"])]["correct"] += 1
+    if knew == False:
+        progress[str(card["id"])]["level"] = max(1, level - 1)
+        progress[str(card["id"])]["false"] += 1
 
 def get_categories(path):
     categories = []
@@ -90,11 +108,11 @@ def show_menu():
     choice = int(input(" > "))
     if(choice == 1):
         clear()
-        practice
+        
 
     if(choice == 2):
         clear()
-        show_stats()
+        # show_stats()
         return None
     
     if(choice == 3):
