@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "word": "un",
+    "translation": "one",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "deux",
+    "translation": "two",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "trois",
+    "translation": "three",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "quatre",
+    "translation": "four",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "cinq",
+    "translation": "five",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "six",
+    "translation": "six",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "sept",
+    "translation": "seven",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "huit",
+    "translation": "eight",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "neuf",
+    "translation": "nine",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "dix",
+    "translation": "ten",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 11,
+    "word": "vingt",
+    "translation": "twenty",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 12,
+    "word": "cinquante",
+    "translation": "fifty",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 13,
+    "word": "cent",
+    "translation": "hundred",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 14,
+    "word": "mille",
+    "translation": "thousand",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  }
+]

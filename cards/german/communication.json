@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "word": "Hallo!",
+    "translation": "Hi!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "Guten Tag!",
+    "translation": "Hello!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "Tschüß!",
+    "translation": "Goodbye! / Bye!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "Danke!",
+    "translation": "Thank you!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "Bitte!",
+    "translation": "Please!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "Entschuldigung!",
+    "translation": "Sorry!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "Stopp!",
+    "translation": "Stop!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "Vorsicht!",
+    "translation": "Caution!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "ja",
+    "translation": "yes",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "nein",
+    "translation": "no",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  }
+]

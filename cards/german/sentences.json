@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "word": "Was ist…?",
+    "translation": "What is …?",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "Wo ist …?",
+    "translation": "Where is …?",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "Wie …?",
+    "translation": "How …?",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "Wie viel kostet es?",
+    "translation": "How much is it?",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "Wie lange dauert es?",
+    "translation": "How long does it take?",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "Gibt es …?",
+    "translation": "Is there …?",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "Ich hätte gerne …",
+    "translation": "I would like ...",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "Ich brauche …",
+    "translation": "I need ...",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "Kein Problem!",
+    "translation": "No problem!",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  }
+]

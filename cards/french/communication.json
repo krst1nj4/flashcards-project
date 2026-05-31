@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "word": "Salut !",
+    "translation": "Hi!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "Bonjour !",
+    "translation": "Hello!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "Au revoir !",
+    "translation": "Goodbye! / Bye!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "Merci !",
+    "translation": "Thank you!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "S'il vous plaît ! / S'il te plaît !",
+    "translation": "Please!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "Pardon !",
+    "translation": "Sorry!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "Arrête !",
+    "translation": "Stop!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "Attention !",
+    "translation": "Caution!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "oui",
+    "translation": "yes",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "non",
+    "translation": "no",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  }
+]

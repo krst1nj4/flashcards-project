@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "word": "Zeit",
+    "translation": "time",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "der Tag",
+    "translation": "day",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "die Woche",
+    "translation": "week",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "der Monat",
+    "translation": "month",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "das Jahr",
+    "translation": "year",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "Montag",
+    "translation": "Monday",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "Dienstag",
+    "translation": "Tuesday",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "Mittwoch",
+    "translation": "Wednesday",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "Donnerstag",
+    "translation": "Thursday",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "Freitag",
+    "translation": "Friday",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "Samstag",
+    "translation": "Saturday",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 12,
+    "word": "Sonntag",
+    "translation": "Sunday",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 13,
+    "word": "morgens",
+    "translation": "in the morning",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 14,
+    "word": "nachmittags",
+    "translation": "in the afternoon",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 15,
+    "word": "abends",
+    "translation": "in the evening",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 16,
+    "word": "nachts",
+    "translation": "at night",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 17,
+    "word": "früher",
+    "translation": "earlier",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 18,
+    "word": "später",
+    "translation": "later",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 19,
+    "word": "pünktlich",
+    "translation": "on time",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 20,
+    "word": "verspätet",
+    "translation": "delayed",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  }
+]

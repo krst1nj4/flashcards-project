@@ -1,0 +1,1626 @@
+[
+  {
+    "id": 1,
+    "word": "la couleur",
+    "translation": "color",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "blanc/blanche",
+    "translation": "white",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "noir(e)",
+    "translation": "black",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "rouge",
+    "translation": "red",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "bleu(e)",
+    "translation": "blue",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "vert(e)",
+    "translation": "green",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "jaune",
+    "translation": "yellow",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "de toutes les couleurs",
+    "translation": "colorful",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 1,
+    "word": "l’internet",
+    "translation": "internet",
+    "example": "",
+    "category": "technology",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "le mot de passe",
+    "translation": "password",
+    "example": "",
+    "category": "technology",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "l’ordinateur",
+    "translation": "computer",
+    "example": "",
+    "category": "technology",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "la prise",
+    "translation": "socket",
+    "example": "",
+    "category": "technology",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "charger",
+    "translation": "to recharge",
+    "example": "",
+    "category": "technology",
+    "language": "french"
+  },
+  {
+    "id": 1,
+    "word": "le temps",
+    "translation": "time",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "le jour",
+    "translation": "day",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "la semaine",
+    "translation": "week",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "le mois",
+    "translation": "month",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "l’année",
+    "translation": "year",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "lundi",
+    "translation": "Monday",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "mardi",
+    "translation": "Tuesday",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "mercredi",
+    "translation": "Wednesday",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "jeudi",
+    "translation": "Thursday",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "vendredi",
+    "translation": "Friday",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 11,
+    "word": "samedi",
+    "translation": "Saturday",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 12,
+    "word": "dimanche",
+    "translation": "Sunday",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 13,
+    "word": "le matin",
+    "translation": "in the morning",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 14,
+    "word": "l'après-midi",
+    "translation": "in the afternoon",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 15,
+    "word": "le soir",
+    "translation": "in the evening",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 16,
+    "word": "la nuit",
+    "translation": "at night",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 17,
+    "word": "plus tôt",
+    "translation": "earlier",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 18,
+    "word": "plus tard",
+    "translation": "later",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 19,
+    "word": "à l'heure",
+    "translation": "on time",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 20,
+    "word": "en retard",
+    "translation": "delayed",
+    "example": "",
+    "category": "time",
+    "language": "french"
+  },
+  {
+    "id": 1,
+    "word": "le/la médecin",
+    "translation": "doctor",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "l’hôpital",
+    "translation": "hospital",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "la pharmacie",
+    "translation": "pharmacy",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "l’antidouleur",
+    "translation": "painkiller",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "le médicament",
+    "translation": "medicine",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "la douleur",
+    "translation": "pain",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "le dos",
+    "translation": "back",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "le pied",
+    "translation": "foot",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "l’abdomen",
+    "translation": "stomach",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "la jambe",
+    "translation": "leg",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 11,
+    "word": "la tête",
+    "translation": "head",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 12,
+    "word": "la main",
+    "translation": "hand",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 13,
+    "word": "le bras",
+    "translation": "arm",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 1,
+    "word": "le supermarché",
+    "translation": "supermarket",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "l’argent",
+    "translation": "cash",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "la carte bancaire",
+    "translation": "bank card",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "le sac",
+    "translation": "bag",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "le tampon",
+    "translation": "tampon",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "la serviette hygiénique",
+    "translation": "(sanitary) pad",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "le préservatif",
+    "translation": "condom",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "la brosse à dents",
+    "translation": "toothbrush",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "l’aide",
+    "translation": "help",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "la police",
+    "translation": "police",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 1,
+    "word": "le prénom",
+    "translation": "first name",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "le nom de famille",
+    "translation": "last name",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "l’adresse",
+    "translation": "address",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "le pays",
+    "translation": "country",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "le lieu de naissance",
+    "translation": "place of birth",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "la date de naissance",
+    "translation": "date of birth",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "la profession",
+    "translation": "profession, job",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "l’homme",
+    "translation": "man",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "la femme",
+    "translation": "woman",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "l’adulte",
+    "translation": "adult",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 11,
+    "word": "l’enfant",
+    "translation": "child",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 1,
+    "word": "Salut !",
+    "translation": "Hi!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "Bonjour !",
+    "translation": "Hello!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "Au revoir !",
+    "translation": "Goodbye! / Bye!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "Merci !",
+    "translation": "Thank you!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "S'il vous plaît ! / S'il te plaît !",
+    "translation": "Please!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "Pardon !",
+    "translation": "Sorry!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "Arrête !",
+    "translation": "Stop!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "Attention !",
+    "translation": "Caution!",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "oui",
+    "translation": "yes",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "non",
+    "translation": "no",
+    "example": "",
+    "category": "communication",
+    "language": "french"
+  },
+  {
+    "id": 1,
+    "word": "le repas",
+    "translation": "food",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "le restaurant",
+    "translation": "restaurant",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "le café",
+    "translation": "café",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "le bar",
+    "translation": "bar",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "le menu",
+    "translation": "menu",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "l’entrée",
+    "translation": "starter",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "le plat principal",
+    "translation": "main course",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "le dessert",
+    "translation": "dessert",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "l’addition",
+    "translation": "bill",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "végétarien(ne)",
+    "translation": "vegetarian",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 11,
+    "word": "végan",
+    "translation": "vegan",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 12,
+    "word": "sans gluten",
+    "translation": "gluten-free",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 13,
+    "word": "le poisson",
+    "translation": "fish",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 14,
+    "word": "la viande",
+    "translation": "meat",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 15,
+    "word": "la salade",
+    "translation": "salad",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 16,
+    "word": "le lait",
+    "translation": "milk",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 17,
+    "word": "le fromage",
+    "translation": "cheese",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 18,
+    "word": "les fruits",
+    "translation": "fruits",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 19,
+    "word": "les légumes",
+    "translation": "vegetables",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 20,
+    "word": "les noix",
+    "translation": "nuts",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 21,
+    "word": "le café",
+    "translation": "coffee",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 22,
+    "word": "le thé",
+    "translation": "tea",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 23,
+    "word": "l’eau",
+    "translation": "water",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 24,
+    "word": "le vin",
+    "translation": "wine",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 25,
+    "word": "la bière",
+    "translation": "beer",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 26,
+    "word": "sans alcool",
+    "translation": "non-alcoholic",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 27,
+    "word": "À ta santé !",
+    "translation": "Cheers!",
+    "example": "",
+    "category": "food",
+    "language": "french"
+  },
+  {
+    "id": 1,
+    "word": "travailler",
+    "translation": "to work",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "visiter",
+    "translation": "to visit",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "rester",
+    "translation": "to stay",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "avoir besoin de",
+    "translation": "to need",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "manger",
+    "translation": "to eat",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "demander",
+    "translation": "to ask",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "donner",
+    "translation": "to give",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "aller",
+    "translation": "to go",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "avoir",
+    "translation": "to have",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "acheter",
+    "translation": "to buy",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 11,
+    "word": "pouvoir",
+    "translation": "(I/you/we/they) can",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 12,
+    "word": "apprendre",
+    "translation": "to learn",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 13,
+    "word": "faire",
+    "translation": "to make",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 14,
+    "word": "prendre",
+    "translation": "to take",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 15,
+    "word": "dire",
+    "translation": "to say",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 16,
+    "word": "écrire",
+    "translation": "to write",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 17,
+    "word": "voir",
+    "translation": "to see",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 18,
+    "word": "être",
+    "translation": "to be",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 19,
+    "word": "chercher",
+    "translation": "to search",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 20,
+    "word": "téléphoner",
+    "translation": "to call",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 21,
+    "word": "boire",
+    "translation": "to drink",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 22,
+    "word": "savoir",
+    "translation": "to know",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 23,
+    "word": "vouloir",
+    "translation": "to want",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 24,
+    "word": "payer",
+    "translation": "to pay",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 1,
+    "word": "le train",
+    "translation": "train",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "le bus",
+    "translation": "bus",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "la voiture",
+    "translation": "car",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "le tramway",
+    "translation": "tram",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "le taxi",
+    "translation": "taxi, cab",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "le vélo",
+    "translation": "bicycle",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "à pied",
+    "translation": "on foot",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "la gare",
+    "translation": "train station",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "la gare routière",
+    "translation": "bus station",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "la station",
+    "translation": "stop",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 1,
+    "word": "Qu’est-ce que c’est ... ?",
+    "translation": "What is …?",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "Où est ... ?",
+    "translation": "Where is …?",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "Comment …?",
+    "translation": "How …?",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "Ça coûte combien ?",
+    "translation": "How much is it?",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "Ça prendra combien de temps ?",
+    "translation": "How long does it take?",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "Il y a ... ?",
+    "translation": "Is there …?",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "Je voudrais ...",
+    "translation": "I would like ...",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "J'ai besoin de ...",
+    "translation": "I need ...",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "Pas de problème !",
+    "translation": "No problem!",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 1,
+    "word": "bon(ne)",
+    "translation": "good",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "mauvais(e)",
+    "translation": "bad",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "nouveau/nouvelle",
+    "translation": "new",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "vieux/vieille",
+    "translation": "old",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "jeune",
+    "translation": "young",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "grand(e)",
+    "translation": "big",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "petit(e)",
+    "translation": "small",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "beau/belle",
+    "translation": "beautiful",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "pas cher/chère",
+    "translation": "cheap",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "cher/chère",
+    "translation": "expensive",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 11,
+    "word": "sombre",
+    "translation": "dark",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 12,
+    "word": "clair(e)",
+    "translation": "bright",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 13,
+    "word": "ensemble",
+    "translation": "together",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 14,
+    "word": "séparé(e)",
+    "translation": "separate",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 15,
+    "word": "important(e)",
+    "translation": "important",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 16,
+    "word": "fatigué(e)",
+    "translation": "tired",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 1,
+    "word": "la maison",
+    "translation": "house",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "l’appartement",
+    "translation": "apartment",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "l’hôtel",
+    "translation": "hotel",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "le musée",
+    "translation": "museum",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "la plage",
+    "translation": "beach",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "le forêt",
+    "translation": "forest",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "la montagne",
+    "translation": "mountain",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "le parc",
+    "translation": "park",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "la rivière",
+    "translation": "river",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "la mer",
+    "translation": "sea",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 11,
+    "word": "le lac",
+    "translation": "lake",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 12,
+    "word": "le temps",
+    "translation": "weather",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 13,
+    "word": "le soleil",
+    "translation": "sun",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 14,
+    "word": "la pluie",
+    "translation": "rain",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 15,
+    "word": "la neige",
+    "translation": "snow",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 16,
+    "word": "l’orage",
+    "translation": "thunderstorm",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 1,
+    "word": "la direction",
+    "translation": "direction",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "l’entrée (f.)",
+    "translation": "entrance",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "la sortie",
+    "translation": "exit",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "la rue",
+    "translation": "street",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "le chemin",
+    "translation": "way",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "la place",
+    "translation": "square",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "à droite",
+    "translation": "right",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "à gauche",
+    "translation": "left",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "tout droit",
+    "translation": "straight ahead",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "retour",
+    "translation": "back",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 1,
+    "word": "un",
+    "translation": "one",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "deux",
+    "translation": "two",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "trois",
+    "translation": "three",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "quatre",
+    "translation": "four",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "cinq",
+    "translation": "five",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "six",
+    "translation": "six",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "sept",
+    "translation": "seven",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "huit",
+    "translation": "eight",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "neuf",
+    "translation": "nine",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "dix",
+    "translation": "ten",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 11,
+    "word": "vingt",
+    "translation": "twenty",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 12,
+    "word": "cinquante",
+    "translation": "fifty",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 13,
+    "word": "cent",
+    "translation": "hundred",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  },
+  {
+    "id": 14,
+    "word": "mille",
+    "translation": "thousand",
+    "example": "",
+    "category": "numbers",
+    "language": "french"
+  }
+]

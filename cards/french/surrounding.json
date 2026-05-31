@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "word": "la maison",
+    "translation": "house",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "l’appartement",
+    "translation": "apartment",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "l’hôtel",
+    "translation": "hotel",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "le musée",
+    "translation": "museum",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "la plage",
+    "translation": "beach",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "le forêt",
+    "translation": "forest",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "la montagne",
+    "translation": "mountain",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "le parc",
+    "translation": "park",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "la rivière",
+    "translation": "river",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "la mer",
+    "translation": "sea",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 11,
+    "word": "le lac",
+    "translation": "lake",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 12,
+    "word": "le temps",
+    "translation": "weather",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 13,
+    "word": "le soleil",
+    "translation": "sun",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 14,
+    "word": "la pluie",
+    "translation": "rain",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 15,
+    "word": "la neige",
+    "translation": "snow",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  },
+  {
+    "id": 16,
+    "word": "l’orage",
+    "translation": "thunderstorm",
+    "example": "",
+    "category": "surrounding",
+    "language": "french"
+  }
+]

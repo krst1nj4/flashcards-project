@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "word": "das Essen",
+    "translation": "food",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "das Restaurant",
+    "translation": "restaurant",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "das Café",
+    "translation": "café",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "die Bar",
+    "translation": "bar",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "die Speisekarte",
+    "translation": "menu",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "die Vorspeise",
+    "translation": "starter",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "die Hauptspeise",
+    "translation": "main course",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "der Nachtisch",
+    "translation": "dessert",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "die Rechnung",
+    "translation": "bill",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "vegetarisch",
+    "translation": "vegetarian",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "vegan",
+    "translation": "vegan",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 12,
+    "word": "glutenfrei",
+    "translation": "gluten-free",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 13,
+    "word": "der Fisch",
+    "translation": "fish",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 14,
+    "word": "das Fleisch",
+    "translation": "meat",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 15,
+    "word": "der Salat",
+    "translation": "salad",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 16,
+    "word": "die Milch",
+    "translation": "milk",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 17,
+    "word": "der Käse",
+    "translation": "cheese",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 18,
+    "word": "das Obst",
+    "translation": "fruits",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 19,
+    "word": "das Gemüse",
+    "translation": "vegetables",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 20,
+    "word": "die Nüsse",
+    "translation": "nuts",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 21,
+    "word": "der Kaffee",
+    "translation": "coffee",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 22,
+    "word": "der Tee",
+    "translation": "tea",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 23,
+    "word": "das Wasser",
+    "translation": "water",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 24,
+    "word": "der Wein",
+    "translation": "wine",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 25,
+    "word": "das Bier",
+    "translation": "beer",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 26,
+    "word": "alkoholfrei",
+    "translation": "non-alcoholic",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 27,
+    "word": "Prost!",
+    "translation": "Cheers!",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "word": "le train",
+    "translation": "train",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "le bus",
+    "translation": "bus",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "la voiture",
+    "translation": "car",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "le tramway",
+    "translation": "tram",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "le taxi",
+    "translation": "taxi, cab",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "le vélo",
+    "translation": "bicycle",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "à pied",
+    "translation": "on foot",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "la gare",
+    "translation": "train station",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "la gare routière",
+    "translation": "bus station",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "la station",
+    "translation": "stop",
+    "example": "",
+    "category": "transport",
+    "language": "french"
+  }
+]

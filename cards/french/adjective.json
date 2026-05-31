@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "word": "bon(ne)",
+    "translation": "good",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "mauvais(e)",
+    "translation": "bad",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "nouveau/nouvelle",
+    "translation": "new",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "vieux/vieille",
+    "translation": "old",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "jeune",
+    "translation": "young",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "grand(e)",
+    "translation": "big",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "petit(e)",
+    "translation": "small",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "beau/belle",
+    "translation": "beautiful",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "pas cher/chère",
+    "translation": "cheap",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "cher/chère",
+    "translation": "expensive",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 11,
+    "word": "sombre",
+    "translation": "dark",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 12,
+    "word": "clair(e)",
+    "translation": "bright",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 13,
+    "word": "ensemble",
+    "translation": "together",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 14,
+    "word": "séparé(e)",
+    "translation": "separate",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 15,
+    "word": "important(e)",
+    "translation": "important",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  },
+  {
+    "id": 16,
+    "word": "fatigué(e)",
+    "translation": "tired",
+    "example": "",
+    "category": "adjective",
+    "language": "french"
+  }
+]

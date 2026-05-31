@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "word": "das Internet",
+    "translation": "internet",
+    "example": "",
+    "category": "technology",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "das Passwort",
+    "translation": "password",
+    "example": "",
+    "category": "technology",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "der Computer",
+    "translation": "computer",
+    "example": "",
+    "category": "technology",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "die Steckdose",
+    "translation": "socket",
+    "example": "",
+    "category": "technology",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "aufladen",
+    "translation": "to recharge",
+    "example": "",
+    "category": "technology",
+    "language": "german"
+  }
+]

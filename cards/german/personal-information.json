@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "word": "der Vorname",
+    "translation": "first name",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "der Nachname",
+    "translation": "last name",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "die Adresse",
+    "translation": "address",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "das Land",
+    "translation": "country",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "der Geburtsort",
+    "translation": "place of birth",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "das Geburtsdatum",
+    "translation": "date of birth",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "der Beruf",
+    "translation": "profession, job",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "der Mann",
+    "translation": "man",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "die Frau",
+    "translation": "woman",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "der / die Erwachsene",
+    "translation": "adult",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "das Kind",
+    "translation": "child",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  }
+]

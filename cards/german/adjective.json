@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "word": "gut",
+    "translation": "good",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "schlecht",
+    "translation": "bad",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "neu",
+    "translation": "new",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "alt",
+    "translation": "old",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "jung",
+    "translation": "young",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "groß",
+    "translation": "big",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "klein",
+    "translation": "small",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "schön",
+    "translation": "beautiful",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "billig",
+    "translation": "cheap",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "teuer",
+    "translation": "expensive",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "dunkel",
+    "translation": "dark",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 12,
+    "word": "hell",
+    "translation": "bright",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 13,
+    "word": "zusammen",
+    "translation": "together",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 14,
+    "word": "getrennt",
+    "translation": "separate",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 15,
+    "word": "wichtig",
+    "translation": "important",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 16,
+    "word": "müde",
+    "translation": "tired",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  }
+]

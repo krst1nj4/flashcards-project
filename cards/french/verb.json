@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "word": "travailler",
+    "translation": "to work",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "visiter",
+    "translation": "to visit",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "rester",
+    "translation": "to stay",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "avoir besoin de",
+    "translation": "to need",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "manger",
+    "translation": "to eat",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "demander",
+    "translation": "to ask",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "donner",
+    "translation": "to give",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "aller",
+    "translation": "to go",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "avoir",
+    "translation": "to have",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "acheter",
+    "translation": "to buy",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 11,
+    "word": "pouvoir",
+    "translation": "(I/you/we/they) can",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 12,
+    "word": "apprendre",
+    "translation": "to learn",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 13,
+    "word": "faire",
+    "translation": "to make",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 14,
+    "word": "prendre",
+    "translation": "to take",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 15,
+    "word": "dire",
+    "translation": "to say",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 16,
+    "word": "écrire",
+    "translation": "to write",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 17,
+    "word": "voir",
+    "translation": "to see",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 18,
+    "word": "être",
+    "translation": "to be",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 19,
+    "word": "chercher",
+    "translation": "to search",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 20,
+    "word": "téléphoner",
+    "translation": "to call",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 21,
+    "word": "boire",
+    "translation": "to drink",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 22,
+    "word": "savoir",
+    "translation": "to know",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 23,
+    "word": "vouloir",
+    "translation": "to want",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  },
+  {
+    "id": 24,
+    "word": "payer",
+    "translation": "to pay",
+    "example": "",
+    "category": "verb",
+    "language": "french"
+  }
+]

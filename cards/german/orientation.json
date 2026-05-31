@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "word": "die Richtung",
+    "translation": "direction",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "der Eingang",
+    "translation": "entrance",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "der Ausgang",
+    "translation": "exit",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "die Straße",
+    "translation": "street",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "der Weg",
+    "translation": "way",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "der Platz",
+    "translation": "square",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "rechts",
+    "translation": "right",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "links",
+    "translation": "left",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "geradeaus",
+    "translation": "straight ahead",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "zurück",
+    "translation": "back",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  }
+]

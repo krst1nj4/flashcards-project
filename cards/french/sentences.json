@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "word": "Qu’est-ce que c’est ... ?",
+    "translation": "What is …?",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "Où est ... ?",
+    "translation": "Where is …?",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "Comment …?",
+    "translation": "How …?",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "Ça coûte combien ?",
+    "translation": "How much is it?",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "Ça prendra combien de temps ?",
+    "translation": "How long does it take?",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "Il y a ... ?",
+    "translation": "Is there …?",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "Je voudrais ...",
+    "translation": "I would like ...",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "J'ai besoin de ...",
+    "translation": "I need ...",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "Pas de problème !",
+    "translation": "No problem!",
+    "example": "",
+    "category": "sentences",
+    "language": "french"
+  }
+]

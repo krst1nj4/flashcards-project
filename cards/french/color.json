@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "word": "la couleur",
+    "translation": "color",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "blanc/blanche",
+    "translation": "white",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "noir(e)",
+    "translation": "black",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "rouge",
+    "translation": "red",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "bleu(e)",
+    "translation": "blue",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "vert(e)",
+    "translation": "green",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "jaune",
+    "translation": "yellow",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "de toutes les couleurs",
+    "translation": "colorful",
+    "example": "",
+    "category": "color",
+    "language": "french"
+  }
+]

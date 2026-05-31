@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "word": "arbeiten",
+    "translation": "to work",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "besuchen",
+    "translation": "to visit",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "bleiben",
+    "translation": "to stay",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "brauchen",
+    "translation": "to need",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "essen",
+    "translation": "to eat",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "fragen",
+    "translation": "to ask",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "geben",
+    "translation": "to give",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "gehen",
+    "translation": "to go",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "haben",
+    "translation": "to have",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "kaufen",
+    "translation": "to buy",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "können",
+    "translation": "(I/you/we/they) can",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 12,
+    "word": "lernen",
+    "translation": "to learn",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 13,
+    "word": "machen",
+    "translation": "to make",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 14,
+    "word": "nehmen",
+    "translation": "to take",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 15,
+    "word": "sagen",
+    "translation": "to say",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 16,
+    "word": "schreiben",
+    "translation": "to write",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 17,
+    "word": "sehen",
+    "translation": "to see",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 18,
+    "word": "sein",
+    "translation": "to be",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 19,
+    "word": "suchen",
+    "translation": "to search",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 20,
+    "word": "telefonieren",
+    "translation": "to call",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 21,
+    "word": "trinken",
+    "translation": "to drink",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 22,
+    "word": "wissen",
+    "translation": "to know",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 23,
+    "word": "wollen",
+    "translation": "to want",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 24,
+    "word": "zahlen",
+    "translation": "to pay",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  }
+]

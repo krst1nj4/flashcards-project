@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "word": "la direction",
+    "translation": "direction",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "l’entrée (f.)",
+    "translation": "entrance",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "la sortie",
+    "translation": "exit",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "la rue",
+    "translation": "street",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "le chemin",
+    "translation": "way",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "la place",
+    "translation": "square",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "à droite",
+    "translation": "right",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "à gauche",
+    "translation": "left",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "tout droit",
+    "translation": "straight ahead",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "retour",
+    "translation": "back",
+    "example": "",
+    "category": "orientation",
+    "language": "french"
+  }
+]

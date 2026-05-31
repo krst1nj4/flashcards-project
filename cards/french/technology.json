@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "word": "l’internet",
+    "translation": "internet",
+    "example": "",
+    "category": "technology",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "le mot de passe",
+    "translation": "password",
+    "example": "",
+    "category": "technology",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "l’ordinateur",
+    "translation": "computer",
+    "example": "",
+    "category": "technology",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "la prise",
+    "translation": "socket",
+    "example": "",
+    "category": "technology",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "charger",
+    "translation": "to recharge",
+    "example": "",
+    "category": "technology",
+    "language": "french"
+  }
+]

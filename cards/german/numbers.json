@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "word": "eins",
+    "translation": "one",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "zwei",
+    "translation": "two",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "drei",
+    "translation": "three",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "vier",
+    "translation": "four",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "fünf",
+    "translation": "five",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "sechs",
+    "translation": "six",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "sieben",
+    "translation": "seven",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "acht",
+    "translation": "eight",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "neun",
+    "translation": "nine",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "zehn",
+    "translation": "ten",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "zwanzig",
+    "translation": "twenty",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 12,
+    "word": "fünfzig",
+    "translation": "fifty",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 13,
+    "word": "hundert",
+    "translation": "hundred",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 14,
+    "word": "tausend",
+    "translation": "thousand",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  }
+]

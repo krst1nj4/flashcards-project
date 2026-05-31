@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "word": "der Zug",
+    "translation": "train",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "der Bus",
+    "translation": "bus",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "das Auto",
+    "translation": "car",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "die Straßenbahn",
+    "translation": "tram",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "das Taxi",
+    "translation": "taxi, cab",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "das Fahrrad",
+    "translation": "bicycle",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "zu Fuß",
+    "translation": "on foot",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "der Bahnhof",
+    "translation": "train station",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "der Busbahnhof",
+    "translation": "bus station",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "die Haltestelle",
+    "translation": "stop",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  }
+]

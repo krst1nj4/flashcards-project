@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "word": "der Arzt / die Ärztin",
+    "translation": "doctor",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "das Krankenhaus",
+    "translation": "hospital",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "die Apotheke",
+    "translation": "pharmacy",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "die Schmerzmittel",
+    "translation": "painkiller",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "das Medikament",
+    "translation": "medicine",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "die Schmerzen",
+    "translation": "pain",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "der Rücken",
+    "translation": "back",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "der Fuß",
+    "translation": "foot",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "der Bauch",
+    "translation": "stomach",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "das Bein",
+    "translation": "leg",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "der Kopf",
+    "translation": "head",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 12,
+    "word": "die Hand",
+    "translation": "hand",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 13,
+    "word": "der Arm",
+    "translation": "arm",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  }
+]

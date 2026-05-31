@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "word": "le/la médecin",
+    "translation": "doctor",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "l’hôpital",
+    "translation": "hospital",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "la pharmacie",
+    "translation": "pharmacy",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "l’antidouleur",
+    "translation": "painkiller",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "le médicament",
+    "translation": "medicine",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "la douleur",
+    "translation": "pain",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "le dos",
+    "translation": "back",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "le pied",
+    "translation": "foot",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "l’abdomen",
+    "translation": "stomach",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "la jambe",
+    "translation": "leg",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 11,
+    "word": "la tête",
+    "translation": "head",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 12,
+    "word": "la main",
+    "translation": "hand",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  },
+  {
+    "id": 13,
+    "word": "le bras",
+    "translation": "arm",
+    "example": "",
+    "category": "health",
+    "language": "french"
+  }
+]

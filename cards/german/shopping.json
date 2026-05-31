@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "word": "der Supermarkt",
+    "translation": "supermarket",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "das Geld",
+    "translation": "cash",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "die Karte (Bankkarte)",
+    "translation": "bank card",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "die Tasche",
+    "translation": "bag",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "der Tampon",
+    "translation": "tampon",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "die Binde",
+    "translation": "(sanitary) pad",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "das Kondom",
+    "translation": "condom",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "die Zahnbürste",
+    "translation": "toothbrush",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "die Hilfe",
+    "translation": "help",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "die Polizei",
+    "translation": "police",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  }
+]

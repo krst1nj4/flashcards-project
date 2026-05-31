@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "word": "le prénom",
+    "translation": "first name",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "le nom de famille",
+    "translation": "last name",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "l’adresse",
+    "translation": "address",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "le pays",
+    "translation": "country",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "le lieu de naissance",
+    "translation": "place of birth",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "la date de naissance",
+    "translation": "date of birth",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "la profession",
+    "translation": "profession, job",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "l’homme",
+    "translation": "man",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "la femme",
+    "translation": "woman",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "l’adulte",
+    "translation": "adult",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  },
+  {
+    "id": 11,
+    "word": "l’enfant",
+    "translation": "child",
+    "example": "",
+    "category": "personal-information",
+    "language": "french"
+  }
+]

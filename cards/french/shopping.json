@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "word": "le supermarché",
+    "translation": "supermarket",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 2,
+    "word": "l’argent",
+    "translation": "cash",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 3,
+    "word": "la carte bancaire",
+    "translation": "bank card",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 4,
+    "word": "le sac",
+    "translation": "bag",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 5,
+    "word": "le tampon",
+    "translation": "tampon",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 6,
+    "word": "la serviette hygiénique",
+    "translation": "(sanitary) pad",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 7,
+    "word": "le préservatif",
+    "translation": "condom",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 8,
+    "word": "la brosse à dents",
+    "translation": "toothbrush",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 9,
+    "word": "l’aide",
+    "translation": "help",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  },
+  {
+    "id": 10,
+    "word": "la police",
+    "translation": "police",
+    "example": "",
+    "category": "shopping",
+    "language": "french"
+  }
+]

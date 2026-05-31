@@ -1,0 +1,1626 @@
+[
+  {
+    "id": 1,
+    "word": "der Arzt / die Ärztin",
+    "translation": "doctor",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "das Krankenhaus",
+    "translation": "hospital",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "die Apotheke",
+    "translation": "pharmacy",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "die Schmerzmittel",
+    "translation": "painkiller",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "das Medikament",
+    "translation": "medicine",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "die Schmerzen",
+    "translation": "pain",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "der Rücken",
+    "translation": "back",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "der Fuß",
+    "translation": "foot",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "der Bauch",
+    "translation": "stomach",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "das Bein",
+    "translation": "leg",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "der Kopf",
+    "translation": "head",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 12,
+    "word": "die Hand",
+    "translation": "hand",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 13,
+    "word": "der Arm",
+    "translation": "arm",
+    "example": "",
+    "category": "health",
+    "language": "german"
+  },
+  {
+    "id": 1,
+    "word": "gut",
+    "translation": "good",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "schlecht",
+    "translation": "bad",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "neu",
+    "translation": "new",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "alt",
+    "translation": "old",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "jung",
+    "translation": "young",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "groß",
+    "translation": "big",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "klein",
+    "translation": "small",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "schön",
+    "translation": "beautiful",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "billig",
+    "translation": "cheap",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "teuer",
+    "translation": "expensive",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "dunkel",
+    "translation": "dark",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 12,
+    "word": "hell",
+    "translation": "bright",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 13,
+    "word": "zusammen",
+    "translation": "together",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 14,
+    "word": "getrennt",
+    "translation": "separate",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 15,
+    "word": "wichtig",
+    "translation": "important",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 16,
+    "word": "müde",
+    "translation": "tired",
+    "example": "",
+    "category": "adjective",
+    "language": "german"
+  },
+  {
+    "id": 1,
+    "word": "die Richtung",
+    "translation": "direction",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "der Eingang",
+    "translation": "entrance",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "der Ausgang",
+    "translation": "exit",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "die Straße",
+    "translation": "street",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "der Weg",
+    "translation": "way",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "der Platz",
+    "translation": "square",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "rechts",
+    "translation": "right",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "links",
+    "translation": "left",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "geradeaus",
+    "translation": "straight ahead",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "zurück",
+    "translation": "back",
+    "example": "",
+    "category": "orientation",
+    "language": "german"
+  },
+  {
+    "id": 1,
+    "word": "Was ist…?",
+    "translation": "What is …?",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "Wo ist …?",
+    "translation": "Where is …?",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "Wie …?",
+    "translation": "How …?",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "Wie viel kostet es?",
+    "translation": "How much is it?",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "Wie lange dauert es?",
+    "translation": "How long does it take?",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "Gibt es …?",
+    "translation": "Is there …?",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "Ich hätte gerne …",
+    "translation": "I would like ...",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "Ich brauche …",
+    "translation": "I need ...",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "Kein Problem!",
+    "translation": "No problem!",
+    "example": "",
+    "category": "sentences",
+    "language": "german"
+  },
+  {
+    "id": 1,
+    "word": "der Zug",
+    "translation": "train",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "der Bus",
+    "translation": "bus",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "das Auto",
+    "translation": "car",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "die Straßenbahn",
+    "translation": "tram",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "das Taxi",
+    "translation": "taxi, cab",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "das Fahrrad",
+    "translation": "bicycle",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "zu Fuß",
+    "translation": "on foot",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "der Bahnhof",
+    "translation": "train station",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "der Busbahnhof",
+    "translation": "bus station",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "die Haltestelle",
+    "translation": "stop",
+    "example": "",
+    "category": "transport",
+    "language": "german"
+  },
+  {
+    "id": 1,
+    "word": "das Internet",
+    "translation": "internet",
+    "example": "",
+    "category": "technology",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "das Passwort",
+    "translation": "password",
+    "example": "",
+    "category": "technology",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "der Computer",
+    "translation": "computer",
+    "example": "",
+    "category": "technology",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "die Steckdose",
+    "translation": "socket",
+    "example": "",
+    "category": "technology",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "aufladen",
+    "translation": "to recharge",
+    "example": "",
+    "category": "technology",
+    "language": "german"
+  },
+  {
+    "id": 1,
+    "word": "eins",
+    "translation": "one",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "zwei",
+    "translation": "two",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "drei",
+    "translation": "three",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "vier",
+    "translation": "four",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "fünf",
+    "translation": "five",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "sechs",
+    "translation": "six",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "sieben",
+    "translation": "seven",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "acht",
+    "translation": "eight",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "neun",
+    "translation": "nine",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "zehn",
+    "translation": "ten",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "zwanzig",
+    "translation": "twenty",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 12,
+    "word": "fünfzig",
+    "translation": "fifty",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 13,
+    "word": "hundert",
+    "translation": "hundred",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 14,
+    "word": "tausend",
+    "translation": "thousand",
+    "example": "",
+    "category": "numbers",
+    "language": "german"
+  },
+  {
+    "id": 1,
+    "word": "Zeit",
+    "translation": "time",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "der Tag",
+    "translation": "day",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "die Woche",
+    "translation": "week",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "der Monat",
+    "translation": "month",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "das Jahr",
+    "translation": "year",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "Montag",
+    "translation": "Monday",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "Dienstag",
+    "translation": "Tuesday",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "Mittwoch",
+    "translation": "Wednesday",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "Donnerstag",
+    "translation": "Thursday",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "Freitag",
+    "translation": "Friday",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "Samstag",
+    "translation": "Saturday",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 12,
+    "word": "Sonntag",
+    "translation": "Sunday",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 13,
+    "word": "morgens",
+    "translation": "in the morning",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 14,
+    "word": "nachmittags",
+    "translation": "in the afternoon",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 15,
+    "word": "abends",
+    "translation": "in the evening",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 16,
+    "word": "nachts",
+    "translation": "at night",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 17,
+    "word": "früher",
+    "translation": "earlier",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 18,
+    "word": "später",
+    "translation": "later",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 19,
+    "word": "pünktlich",
+    "translation": "on time",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 20,
+    "word": "verspätet",
+    "translation": "delayed",
+    "example": "",
+    "category": "time",
+    "language": "german"
+  },
+  {
+    "id": 1,
+    "word": "der Vorname",
+    "translation": "first name",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "der Nachname",
+    "translation": "last name",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "die Adresse",
+    "translation": "address",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "das Land",
+    "translation": "country",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "der Geburtsort",
+    "translation": "place of birth",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "das Geburtsdatum",
+    "translation": "date of birth",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "der Beruf",
+    "translation": "profession, job",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "der Mann",
+    "translation": "man",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "die Frau",
+    "translation": "woman",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "der / die Erwachsene",
+    "translation": "adult",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "das Kind",
+    "translation": "child",
+    "example": "",
+    "category": "personal-information",
+    "language": "german"
+  },
+  {
+    "id": 1,
+    "word": "arbeiten",
+    "translation": "to work",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "besuchen",
+    "translation": "to visit",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "bleiben",
+    "translation": "to stay",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "brauchen",
+    "translation": "to need",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "essen",
+    "translation": "to eat",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "fragen",
+    "translation": "to ask",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "geben",
+    "translation": "to give",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "gehen",
+    "translation": "to go",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "haben",
+    "translation": "to have",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "kaufen",
+    "translation": "to buy",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "können",
+    "translation": "(I/you/we/they) can",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 12,
+    "word": "lernen",
+    "translation": "to learn",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 13,
+    "word": "machen",
+    "translation": "to make",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 14,
+    "word": "nehmen",
+    "translation": "to take",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 15,
+    "word": "sagen",
+    "translation": "to say",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 16,
+    "word": "schreiben",
+    "translation": "to write",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 17,
+    "word": "sehen",
+    "translation": "to see",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 18,
+    "word": "sein",
+    "translation": "to be",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 19,
+    "word": "suchen",
+    "translation": "to search",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 20,
+    "word": "telefonieren",
+    "translation": "to call",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 21,
+    "word": "trinken",
+    "translation": "to drink",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 22,
+    "word": "wissen",
+    "translation": "to know",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 23,
+    "word": "wollen",
+    "translation": "to want",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 24,
+    "word": "zahlen",
+    "translation": "to pay",
+    "example": "",
+    "category": "verb",
+    "language": "german"
+  },
+  {
+    "id": 1,
+    "word": "Farbe",
+    "translation": "color",
+    "example": "",
+    "category": "color",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "weiß",
+    "translation": "white",
+    "example": "",
+    "category": "color",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "schwarz",
+    "translation": "black",
+    "example": "",
+    "category": "color",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "rot",
+    "translation": "red",
+    "example": "",
+    "category": "color",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "blau",
+    "translation": "blue",
+    "example": "",
+    "category": "color",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "grün",
+    "translation": "green",
+    "example": "",
+    "category": "color",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "gelb",
+    "translation": "yellow",
+    "example": "",
+    "category": "color",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "bunt",
+    "translation": "colorful",
+    "example": "",
+    "category": "color",
+    "language": "german"
+  },
+  {
+    "id": 1,
+    "word": "das Essen",
+    "translation": "food",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "das Restaurant",
+    "translation": "restaurant",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "das Café",
+    "translation": "café",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "die Bar",
+    "translation": "bar",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "die Speisekarte",
+    "translation": "menu",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "die Vorspeise",
+    "translation": "starter",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "die Hauptspeise",
+    "translation": "main course",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "der Nachtisch",
+    "translation": "dessert",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "die Rechnung",
+    "translation": "bill",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "vegetarisch",
+    "translation": "vegetarian",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "vegan",
+    "translation": "vegan",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 12,
+    "word": "glutenfrei",
+    "translation": "gluten-free",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 13,
+    "word": "der Fisch",
+    "translation": "fish",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 14,
+    "word": "das Fleisch",
+    "translation": "meat",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 15,
+    "word": "der Salat",
+    "translation": "salad",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 16,
+    "word": "die Milch",
+    "translation": "milk",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 17,
+    "word": "der Käse",
+    "translation": "cheese",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 18,
+    "word": "das Obst",
+    "translation": "fruits",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 19,
+    "word": "das Gemüse",
+    "translation": "vegetables",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 20,
+    "word": "die Nüsse",
+    "translation": "nuts",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 21,
+    "word": "der Kaffee",
+    "translation": "coffee",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 22,
+    "word": "der Tee",
+    "translation": "tea",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 23,
+    "word": "das Wasser",
+    "translation": "water",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 24,
+    "word": "der Wein",
+    "translation": "wine",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 25,
+    "word": "das Bier",
+    "translation": "beer",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 26,
+    "word": "alkoholfrei",
+    "translation": "non-alcoholic",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 27,
+    "word": "Prost!",
+    "translation": "Cheers!",
+    "example": "",
+    "category": "food",
+    "language": "german"
+  },
+  {
+    "id": 1,
+    "word": "der Supermarkt",
+    "translation": "supermarket",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "das Geld",
+    "translation": "cash",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "die Karte (Bankkarte)",
+    "translation": "bank card",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "die Tasche",
+    "translation": "bag",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "der Tampon",
+    "translation": "tampon",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "die Binde",
+    "translation": "(sanitary) pad",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "das Kondom",
+    "translation": "condom",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "die Zahnbürste",
+    "translation": "toothbrush",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "die Hilfe",
+    "translation": "help",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "die Polizei",
+    "translation": "police",
+    "example": "",
+    "category": "shopping",
+    "language": "german"
+  },
+  {
+    "id": 1,
+    "word": "das Haus",
+    "translation": "house",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "die Wohnung",
+    "translation": "apartment",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "das Hotel",
+    "translation": "hotel",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "das Museum",
+    "translation": "museum",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "der Strand",
+    "translation": "beach",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "der Wald",
+    "translation": "forest",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "der Berg",
+    "translation": "mountain",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "der Park",
+    "translation": "park",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "der Fluss",
+    "translation": "river",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "das Meer",
+    "translation": "sea",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 11,
+    "word": "der See",
+    "translation": "lake",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 12,
+    "word": "das Wetter",
+    "translation": "weather",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 13,
+    "word": "die Sonne",
+    "translation": "sun",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 14,
+    "word": "der Regen",
+    "translation": "rain",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 15,
+    "word": "der Schnee",
+    "translation": "snow",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 16,
+    "word": "das Gewitter",
+    "translation": "thunderstorm",
+    "example": "",
+    "category": "surrounding",
+    "language": "german"
+  },
+  {
+    "id": 1,
+    "word": "Hallo!",
+    "translation": "Hi!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 2,
+    "word": "Guten Tag!",
+    "translation": "Hello!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 3,
+    "word": "Tschüß!",
+    "translation": "Goodbye! / Bye!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 4,
+    "word": "Danke!",
+    "translation": "Thank you!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 5,
+    "word": "Bitte!",
+    "translation": "Please!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 6,
+    "word": "Entschuldigung!",
+    "translation": "Sorry!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 7,
+    "word": "Stopp!",
+    "translation": "Stop!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 8,
+    "word": "Vorsicht!",
+    "translation": "Caution!",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 9,
+    "word": "ja",
+    "translation": "yes",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  },
+  {
+    "id": 10,
+    "word": "nein",
+    "translation": "no",
+    "example": "",
+    "category": "communication",
+    "language": "german"
+  }
+]
