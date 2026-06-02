@@ -1,6 +1,7 @@
 import json
 import os
 import random
+from display import show_front, show_back, wait_for_button
 
 def open_cards(language, category):
     path = f"cards/{language}/{category}.json"
@@ -120,20 +121,20 @@ def show_stats(cards, progress, category):
 
 def practice(cards, progress):
     for card in cards:
-        clear()
-        print(f"{card["word"]}")
+        show_front(card["word"])
+        while wait_for_button() != 3:
+            pass
+        
+        show_back(card["translation"])
+        button = wait_for_button()
 
-        print("Do you know this?")
-        choice = input("(y/n) > ")
-        print(f"{card["translation"]}")
-        input("Press Enter to continue...")
-
-        if choice == "y":
-            level_up(card, True, progress)
-            save_progress(progress)
-        if choice == "n":
+        if button == 2:
             level_up(card, False, progress)
-            save_progress(progress)
+        if button == 1:
+            level_up(card, True, progress)
+        
+        save_progress(progress)
+
 
 def show_menu():
     clear()
