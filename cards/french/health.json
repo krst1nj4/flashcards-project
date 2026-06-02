@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "health_1",
     "word": "le/la médecin",
     "translation": "doctor",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "health_2",
     "word": "l’hôpital",
     "translation": "hospital",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "health_3",
     "word": "la pharmacie",
     "translation": "pharmacy",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "health_4",
     "word": "l’antidouleur",
     "translation": "painkiller",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "health_5",
     "word": "le médicament",
     "translation": "medicine",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "health_6",
     "word": "la douleur",
     "translation": "pain",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "health_7",
     "word": "le dos",
     "translation": "back",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "health_8",
     "word": "le pied",
     "translation": "foot",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "health_9",
     "word": "l’abdomen",
     "translation": "stomach",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "health_10",
     "word": "la jambe",
     "translation": "leg",
     "example": "",
@@ -80,7 +80,7 @@
     "language": "french"
   },
   {
-    "id": 11,
+    "id": "health_11",
     "word": "la tête",
     "translation": "head",
     "example": "",
@@ -88,7 +88,7 @@
     "language": "french"
   },
   {
-    "id": 12,
+    "id": "health_12",
     "word": "la main",
     "translation": "hand",
     "example": "",
@@ -96,7 +96,7 @@
     "language": "french"
   },
   {
-    "id": 13,
+    "id": "health_13",
     "word": "le bras",
     "translation": "arm",
     "example": "",

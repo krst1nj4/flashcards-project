@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "shopping_1",
     "word": "der Supermarkt",
     "translation": "supermarket",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "german"
   },
   {
-    "id": 2,
+    "id": "shopping_2",
     "word": "das Geld",
     "translation": "cash",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "german"
   },
   {
-    "id": 3,
+    "id": "shopping_3",
     "word": "die Karte (Bankkarte)",
     "translation": "bank card",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "german"
   },
   {
-    "id": 4,
+    "id": "shopping_4",
     "word": "die Tasche",
     "translation": "bag",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "german"
   },
   {
-    "id": 5,
+    "id": "shopping_5",
     "word": "der Tampon",
     "translation": "tampon",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "german"
   },
   {
-    "id": 6,
+    "id": "shopping_6",
     "word": "die Binde",
     "translation": "(sanitary) pad",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "german"
   },
   {
-    "id": 7,
+    "id": "shopping_7",
     "word": "das Kondom",
     "translation": "condom",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "german"
   },
   {
-    "id": 8,
+    "id": "shopping_8",
     "word": "die Zahnbürste",
     "translation": "toothbrush",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "german"
   },
   {
-    "id": 9,
+    "id": "shopping_9",
     "word": "die Hilfe",
     "translation": "help",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "german"
   },
   {
-    "id": 10,
+    "id": "shopping_10",
     "word": "die Polizei",
     "translation": "police",
     "example": "",

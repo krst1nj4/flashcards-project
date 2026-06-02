@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "communication_1",
     "word": "Salut !",
     "translation": "Hi!",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "communication_2",
     "word": "Bonjour !",
     "translation": "Hello!",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "communication_3",
     "word": "Au revoir !",
     "translation": "Goodbye! / Bye!",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "communication_4",
     "word": "Merci !",
     "translation": "Thank you!",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "communication_5",
     "word": "S'il vous plaît ! / S'il te plaît !",
     "translation": "Please!",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "communication_6",
     "word": "Pardon !",
     "translation": "Sorry!",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "communication_7",
     "word": "Arrête !",
     "translation": "Stop!",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "communication_8",
     "word": "Attention !",
     "translation": "Caution!",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "communication_9",
     "word": "oui",
     "translation": "yes",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "communication_10",
     "word": "non",
     "translation": "no",
     "example": "",

@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "verb_1",
     "word": "arbeiten",
     "translation": "to work",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "german"
   },
   {
-    "id": 2,
+    "id": "verb_2",
     "word": "besuchen",
     "translation": "to visit",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "german"
   },
   {
-    "id": 3,
+    "id": "verb_3",
     "word": "bleiben",
     "translation": "to stay",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "german"
   },
   {
-    "id": 4,
+    "id": "verb_4",
     "word": "brauchen",
     "translation": "to need",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "german"
   },
   {
-    "id": 5,
+    "id": "verb_5",
     "word": "essen",
     "translation": "to eat",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "german"
   },
   {
-    "id": 6,
+    "id": "verb_6",
     "word": "fragen",
     "translation": "to ask",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "german"
   },
   {
-    "id": 7,
+    "id": "verb_7",
     "word": "geben",
     "translation": "to give",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "german"
   },
   {
-    "id": 8,
+    "id": "verb_8",
     "word": "gehen",
     "translation": "to go",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "german"
   },
   {
-    "id": 9,
+    "id": "verb_9",
     "word": "haben",
     "translation": "to have",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "german"
   },
   {
-    "id": 10,
+    "id": "verb_10",
     "word": "kaufen",
     "translation": "to buy",
     "example": "",
@@ -80,7 +80,7 @@
     "language": "german"
   },
   {
-    "id": 11,
+    "id": "verb_11",
     "word": "können",
     "translation": "(I/you/we/they) can",
     "example": "",
@@ -88,7 +88,7 @@
     "language": "german"
   },
   {
-    "id": 12,
+    "id": "verb_12",
     "word": "lernen",
     "translation": "to learn",
     "example": "",
@@ -96,7 +96,7 @@
     "language": "german"
   },
   {
-    "id": 13,
+    "id": "verb_13",
     "word": "machen",
     "translation": "to make",
     "example": "",
@@ -104,7 +104,7 @@
     "language": "german"
   },
   {
-    "id": 14,
+    "id": "verb_14",
     "word": "nehmen",
     "translation": "to take",
     "example": "",
@@ -112,7 +112,7 @@
     "language": "german"
   },
   {
-    "id": 15,
+    "id": "verb_15",
     "word": "sagen",
     "translation": "to say",
     "example": "",
@@ -120,7 +120,7 @@
     "language": "german"
   },
   {
-    "id": 16,
+    "id": "verb_16",
     "word": "schreiben",
     "translation": "to write",
     "example": "",
@@ -128,7 +128,7 @@
     "language": "german"
   },
   {
-    "id": 17,
+    "id": "verb_17",
     "word": "sehen",
     "translation": "to see",
     "example": "",
@@ -136,7 +136,7 @@
     "language": "german"
   },
   {
-    "id": 18,
+    "id": "verb_18",
     "word": "sein",
     "translation": "to be",
     "example": "",
@@ -144,7 +144,7 @@
     "language": "german"
   },
   {
-    "id": 19,
+    "id": "verb_19",
     "word": "suchen",
     "translation": "to search",
     "example": "",
@@ -152,7 +152,7 @@
     "language": "german"
   },
   {
-    "id": 20,
+    "id": "verb_20",
     "word": "telefonieren",
     "translation": "to call",
     "example": "",
@@ -160,7 +160,7 @@
     "language": "german"
   },
   {
-    "id": 21,
+    "id": "verb_21",
     "word": "trinken",
     "translation": "to drink",
     "example": "",
@@ -168,7 +168,7 @@
     "language": "german"
   },
   {
-    "id": 22,
+    "id": "verb_22",
     "word": "wissen",
     "translation": "to know",
     "example": "",
@@ -176,7 +176,7 @@
     "language": "german"
   },
   {
-    "id": 23,
+    "id": "verb_23",
     "word": "wollen",
     "translation": "to want",
     "example": "",
@@ -184,7 +184,7 @@
     "language": "german"
   },
   {
-    "id": 24,
+    "id": "verb_24",
     "word": "zahlen",
     "translation": "to pay",
     "example": "",

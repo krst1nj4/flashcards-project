@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "time_1",
     "word": "le temps",
     "translation": "time",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "time_2",
     "word": "le jour",
     "translation": "day",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "time_3",
     "word": "la semaine",
     "translation": "week",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "time_4",
     "word": "le mois",
     "translation": "month",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "time_5",
     "word": "l’année",
     "translation": "year",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "time_6",
     "word": "lundi",
     "translation": "Monday",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "time_7",
     "word": "mardi",
     "translation": "Tuesday",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "time_8",
     "word": "mercredi",
     "translation": "Wednesday",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "time_9",
     "word": "jeudi",
     "translation": "Thursday",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "time_10",
     "word": "vendredi",
     "translation": "Friday",
     "example": "",
@@ -80,7 +80,7 @@
     "language": "french"
   },
   {
-    "id": 11,
+    "id": "time_11",
     "word": "samedi",
     "translation": "Saturday",
     "example": "",
@@ -88,7 +88,7 @@
     "language": "french"
   },
   {
-    "id": 12,
+    "id": "time_12",
     "word": "dimanche",
     "translation": "Sunday",
     "example": "",
@@ -96,7 +96,7 @@
     "language": "french"
   },
   {
-    "id": 13,
+    "id": "time_13",
     "word": "le matin",
     "translation": "in the morning",
     "example": "",
@@ -104,7 +104,7 @@
     "language": "french"
   },
   {
-    "id": 14,
+    "id": "time_14",
     "word": "l'après-midi",
     "translation": "in the afternoon",
     "example": "",
@@ -112,7 +112,7 @@
     "language": "french"
   },
   {
-    "id": 15,
+    "id": "time_15",
     "word": "le soir",
     "translation": "in the evening",
     "example": "",
@@ -120,7 +120,7 @@
     "language": "french"
   },
   {
-    "id": 16,
+    "id": "time_16",
     "word": "la nuit",
     "translation": "at night",
     "example": "",
@@ -128,7 +128,7 @@
     "language": "french"
   },
   {
-    "id": 17,
+    "id": "time_17",
     "word": "plus tôt",
     "translation": "earlier",
     "example": "",
@@ -136,7 +136,7 @@
     "language": "french"
   },
   {
-    "id": 18,
+    "id": "time_18",
     "word": "plus tard",
     "translation": "later",
     "example": "",
@@ -144,7 +144,7 @@
     "language": "french"
   },
   {
-    "id": 19,
+    "id": "time_19",
     "word": "à l'heure",
     "translation": "on time",
     "example": "",
@@ -152,7 +152,7 @@
     "language": "french"
   },
   {
-    "id": 20,
+    "id": "time_20",
     "word": "en retard",
     "translation": "delayed",
     "example": "",

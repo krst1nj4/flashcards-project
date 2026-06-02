@@ -8,7 +8,7 @@ def convert_category(path_csv, language, category):
         reader = csv.reader(f, delimiter=";")
         for i, row in enumerate(reader):
             cards.append({
-                "id": i+1,
+                "id": f"{category}_{i+1}",
                 "word": row[1].strip(),
                 "translation": row[0].strip(),
                 "example": "",

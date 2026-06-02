@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "food_1",
     "word": "das Essen",
     "translation": "food",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "german"
   },
   {
-    "id": 2,
+    "id": "food_2",
     "word": "das Restaurant",
     "translation": "restaurant",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "german"
   },
   {
-    "id": 3,
+    "id": "food_3",
     "word": "das Café",
     "translation": "café",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "german"
   },
   {
-    "id": 4,
+    "id": "food_4",
     "word": "die Bar",
     "translation": "bar",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "german"
   },
   {
-    "id": 5,
+    "id": "food_5",
     "word": "die Speisekarte",
     "translation": "menu",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "german"
   },
   {
-    "id": 6,
+    "id": "food_6",
     "word": "die Vorspeise",
     "translation": "starter",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "german"
   },
   {
-    "id": 7,
+    "id": "food_7",
     "word": "die Hauptspeise",
     "translation": "main course",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "german"
   },
   {
-    "id": 8,
+    "id": "food_8",
     "word": "der Nachtisch",
     "translation": "dessert",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "german"
   },
   {
-    "id": 9,
+    "id": "food_9",
     "word": "die Rechnung",
     "translation": "bill",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "german"
   },
   {
-    "id": 10,
+    "id": "food_10",
     "word": "vegetarisch",
     "translation": "vegetarian",
     "example": "",
@@ -80,7 +80,7 @@
     "language": "german"
   },
   {
-    "id": 11,
+    "id": "food_11",
     "word": "vegan",
     "translation": "vegan",
     "example": "",
@@ -88,7 +88,7 @@
     "language": "german"
   },
   {
-    "id": 12,
+    "id": "food_12",
     "word": "glutenfrei",
     "translation": "gluten-free",
     "example": "",
@@ -96,7 +96,7 @@
     "language": "german"
   },
   {
-    "id": 13,
+    "id": "food_13",
     "word": "der Fisch",
     "translation": "fish",
     "example": "",
@@ -104,7 +104,7 @@
     "language": "german"
   },
   {
-    "id": 14,
+    "id": "food_14",
     "word": "das Fleisch",
     "translation": "meat",
     "example": "",
@@ -112,7 +112,7 @@
     "language": "german"
   },
   {
-    "id": 15,
+    "id": "food_15",
     "word": "der Salat",
     "translation": "salad",
     "example": "",
@@ -120,7 +120,7 @@
     "language": "german"
   },
   {
-    "id": 16,
+    "id": "food_16",
     "word": "die Milch",
     "translation": "milk",
     "example": "",
@@ -128,7 +128,7 @@
     "language": "german"
   },
   {
-    "id": 17,
+    "id": "food_17",
     "word": "der Käse",
     "translation": "cheese",
     "example": "",
@@ -136,7 +136,7 @@
     "language": "german"
   },
   {
-    "id": 18,
+    "id": "food_18",
     "word": "das Obst",
     "translation": "fruits",
     "example": "",
@@ -144,7 +144,7 @@
     "language": "german"
   },
   {
-    "id": 19,
+    "id": "food_19",
     "word": "das Gemüse",
     "translation": "vegetables",
     "example": "",
@@ -152,7 +152,7 @@
     "language": "german"
   },
   {
-    "id": 20,
+    "id": "food_20",
     "word": "die Nüsse",
     "translation": "nuts",
     "example": "",
@@ -160,7 +160,7 @@
     "language": "german"
   },
   {
-    "id": 21,
+    "id": "food_21",
     "word": "der Kaffee",
     "translation": "coffee",
     "example": "",
@@ -168,7 +168,7 @@
     "language": "german"
   },
   {
-    "id": 22,
+    "id": "food_22",
     "word": "der Tee",
     "translation": "tea",
     "example": "",
@@ -176,7 +176,7 @@
     "language": "german"
   },
   {
-    "id": 23,
+    "id": "food_23",
     "word": "das Wasser",
     "translation": "water",
     "example": "",
@@ -184,7 +184,7 @@
     "language": "german"
   },
   {
-    "id": 24,
+    "id": "food_24",
     "word": "der Wein",
     "translation": "wine",
     "example": "",
@@ -192,7 +192,7 @@
     "language": "german"
   },
   {
-    "id": 25,
+    "id": "food_25",
     "word": "das Bier",
     "translation": "beer",
     "example": "",
@@ -200,7 +200,7 @@
     "language": "german"
   },
   {
-    "id": 26,
+    "id": "food_26",
     "word": "alkoholfrei",
     "translation": "non-alcoholic",
     "example": "",
@@ -208,7 +208,7 @@
     "language": "german"
   },
   {
-    "id": 27,
+    "id": "food_27",
     "word": "Prost!",
     "translation": "Cheers!",
     "example": "",

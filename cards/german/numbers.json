@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "numbers_1",
     "word": "eins",
     "translation": "one",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "german"
   },
   {
-    "id": 2,
+    "id": "numbers_2",
     "word": "zwei",
     "translation": "two",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "german"
   },
   {
-    "id": 3,
+    "id": "numbers_3",
     "word": "drei",
     "translation": "three",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "german"
   },
   {
-    "id": 4,
+    "id": "numbers_4",
     "word": "vier",
     "translation": "four",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "german"
   },
   {
-    "id": 5,
+    "id": "numbers_5",
     "word": "fünf",
     "translation": "five",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "german"
   },
   {
-    "id": 6,
+    "id": "numbers_6",
     "word": "sechs",
     "translation": "six",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "german"
   },
   {
-    "id": 7,
+    "id": "numbers_7",
     "word": "sieben",
     "translation": "seven",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "german"
   },
   {
-    "id": 8,
+    "id": "numbers_8",
     "word": "acht",
     "translation": "eight",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "german"
   },
   {
-    "id": 9,
+    "id": "numbers_9",
     "word": "neun",
     "translation": "nine",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "german"
   },
   {
-    "id": 10,
+    "id": "numbers_10",
     "word": "zehn",
     "translation": "ten",
     "example": "",
@@ -80,7 +80,7 @@
     "language": "german"
   },
   {
-    "id": 11,
+    "id": "numbers_11",
     "word": "zwanzig",
     "translation": "twenty",
     "example": "",
@@ -88,7 +88,7 @@
     "language": "german"
   },
   {
-    "id": 12,
+    "id": "numbers_12",
     "word": "fünfzig",
     "translation": "fifty",
     "example": "",
@@ -96,7 +96,7 @@
     "language": "german"
   },
   {
-    "id": 13,
+    "id": "numbers_13",
     "word": "hundert",
     "translation": "hundred",
     "example": "",
@@ -104,7 +104,7 @@
     "language": "german"
   },
   {
-    "id": 14,
+    "id": "numbers_14",
     "word": "tausend",
     "translation": "thousand",
     "example": "",

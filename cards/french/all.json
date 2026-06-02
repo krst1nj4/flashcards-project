@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "color_1",
     "word": "la couleur",
     "translation": "color",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "color_2",
     "word": "blanc/blanche",
     "translation": "white",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "color_3",
     "word": "noir(e)",
     "translation": "black",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "color_4",
     "word": "rouge",
     "translation": "red",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "color_5",
     "word": "bleu(e)",
     "translation": "blue",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "color_6",
     "word": "vert(e)",
     "translation": "green",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "color_7",
     "word": "jaune",
     "translation": "yellow",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "color_8",
     "word": "de toutes les couleurs",
     "translation": "colorful",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "french"
   },
   {
-    "id": 1,
+    "id": "technology_1",
     "word": "l’internet",
     "translation": "internet",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "technology_2",
     "word": "le mot de passe",
     "translation": "password",
     "example": "",
@@ -80,7 +80,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "technology_3",
     "word": "l’ordinateur",
     "translation": "computer",
     "example": "",
@@ -88,7 +88,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "technology_4",
     "word": "la prise",
     "translation": "socket",
     "example": "",
@@ -96,7 +96,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "technology_5",
     "word": "charger",
     "translation": "to recharge",
     "example": "",
@@ -104,7 +104,7 @@
     "language": "french"
   },
   {
-    "id": 1,
+    "id": "time_1",
     "word": "le temps",
     "translation": "time",
     "example": "",
@@ -112,7 +112,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "time_2",
     "word": "le jour",
     "translation": "day",
     "example": "",
@@ -120,7 +120,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "time_3",
     "word": "la semaine",
     "translation": "week",
     "example": "",
@@ -128,7 +128,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "time_4",
     "word": "le mois",
     "translation": "month",
     "example": "",
@@ -136,7 +136,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "time_5",
     "word": "l’année",
     "translation": "year",
     "example": "",
@@ -144,7 +144,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "time_6",
     "word": "lundi",
     "translation": "Monday",
     "example": "",
@@ -152,7 +152,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "time_7",
     "word": "mardi",
     "translation": "Tuesday",
     "example": "",
@@ -160,7 +160,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "time_8",
     "word": "mercredi",
     "translation": "Wednesday",
     "example": "",
@@ -168,7 +168,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "time_9",
     "word": "jeudi",
     "translation": "Thursday",
     "example": "",
@@ -176,7 +176,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "time_10",
     "word": "vendredi",
     "translation": "Friday",
     "example": "",
@@ -184,7 +184,7 @@
     "language": "french"
   },
   {
-    "id": 11,
+    "id": "time_11",
     "word": "samedi",
     "translation": "Saturday",
     "example": "",
@@ -192,7 +192,7 @@
     "language": "french"
   },
   {
-    "id": 12,
+    "id": "time_12",
     "word": "dimanche",
     "translation": "Sunday",
     "example": "",
@@ -200,7 +200,7 @@
     "language": "french"
   },
   {
-    "id": 13,
+    "id": "time_13",
     "word": "le matin",
     "translation": "in the morning",
     "example": "",
@@ -208,7 +208,7 @@
     "language": "french"
   },
   {
-    "id": 14,
+    "id": "time_14",
     "word": "l'après-midi",
     "translation": "in the afternoon",
     "example": "",
@@ -216,7 +216,7 @@
     "language": "french"
   },
   {
-    "id": 15,
+    "id": "time_15",
     "word": "le soir",
     "translation": "in the evening",
     "example": "",
@@ -224,7 +224,7 @@
     "language": "french"
   },
   {
-    "id": 16,
+    "id": "time_16",
     "word": "la nuit",
     "translation": "at night",
     "example": "",
@@ -232,7 +232,7 @@
     "language": "french"
   },
   {
-    "id": 17,
+    "id": "time_17",
     "word": "plus tôt",
     "translation": "earlier",
     "example": "",
@@ -240,7 +240,7 @@
     "language": "french"
   },
   {
-    "id": 18,
+    "id": "time_18",
     "word": "plus tard",
     "translation": "later",
     "example": "",
@@ -248,7 +248,7 @@
     "language": "french"
   },
   {
-    "id": 19,
+    "id": "time_19",
     "word": "à l'heure",
     "translation": "on time",
     "example": "",
@@ -256,7 +256,7 @@
     "language": "french"
   },
   {
-    "id": 20,
+    "id": "time_20",
     "word": "en retard",
     "translation": "delayed",
     "example": "",
@@ -264,7 +264,7 @@
     "language": "french"
   },
   {
-    "id": 1,
+    "id": "health_1",
     "word": "le/la médecin",
     "translation": "doctor",
     "example": "",
@@ -272,7 +272,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "health_2",
     "word": "l’hôpital",
     "translation": "hospital",
     "example": "",
@@ -280,7 +280,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "health_3",
     "word": "la pharmacie",
     "translation": "pharmacy",
     "example": "",
@@ -288,7 +288,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "health_4",
     "word": "l’antidouleur",
     "translation": "painkiller",
     "example": "",
@@ -296,7 +296,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "health_5",
     "word": "le médicament",
     "translation": "medicine",
     "example": "",
@@ -304,7 +304,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "health_6",
     "word": "la douleur",
     "translation": "pain",
     "example": "",
@@ -312,7 +312,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "health_7",
     "word": "le dos",
     "translation": "back",
     "example": "",
@@ -320,7 +320,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "health_8",
     "word": "le pied",
     "translation": "foot",
     "example": "",
@@ -328,7 +328,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "health_9",
     "word": "l’abdomen",
     "translation": "stomach",
     "example": "",
@@ -336,7 +336,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "health_10",
     "word": "la jambe",
     "translation": "leg",
     "example": "",
@@ -344,7 +344,7 @@
     "language": "french"
   },
   {
-    "id": 11,
+    "id": "health_11",
     "word": "la tête",
     "translation": "head",
     "example": "",
@@ -352,7 +352,7 @@
     "language": "french"
   },
   {
-    "id": 12,
+    "id": "health_12",
     "word": "la main",
     "translation": "hand",
     "example": "",
@@ -360,7 +360,7 @@
     "language": "french"
   },
   {
-    "id": 13,
+    "id": "health_13",
     "word": "le bras",
     "translation": "arm",
     "example": "",
@@ -368,7 +368,7 @@
     "language": "french"
   },
   {
-    "id": 1,
+    "id": "shopping_1",
     "word": "le supermarché",
     "translation": "supermarket",
     "example": "",
@@ -376,7 +376,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "shopping_2",
     "word": "l’argent",
     "translation": "cash",
     "example": "",
@@ -384,7 +384,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "shopping_3",
     "word": "la carte bancaire",
     "translation": "bank card",
     "example": "",
@@ -392,7 +392,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "shopping_4",
     "word": "le sac",
     "translation": "bag",
     "example": "",
@@ -400,7 +400,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "shopping_5",
     "word": "le tampon",
     "translation": "tampon",
     "example": "",
@@ -408,7 +408,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "shopping_6",
     "word": "la serviette hygiénique",
     "translation": "(sanitary) pad",
     "example": "",
@@ -416,7 +416,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "shopping_7",
     "word": "le préservatif",
     "translation": "condom",
     "example": "",
@@ -424,7 +424,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "shopping_8",
     "word": "la brosse à dents",
     "translation": "toothbrush",
     "example": "",
@@ -432,7 +432,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "shopping_9",
     "word": "l’aide",
     "translation": "help",
     "example": "",
@@ -440,7 +440,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "shopping_10",
     "word": "la police",
     "translation": "police",
     "example": "",
@@ -448,7 +448,7 @@
     "language": "french"
   },
   {
-    "id": 1,
+    "id": "personal-information_1",
     "word": "le prénom",
     "translation": "first name",
     "example": "",
@@ -456,7 +456,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "personal-information_2",
     "word": "le nom de famille",
     "translation": "last name",
     "example": "",
@@ -464,7 +464,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "personal-information_3",
     "word": "l’adresse",
     "translation": "address",
     "example": "",
@@ -472,7 +472,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "personal-information_4",
     "word": "le pays",
     "translation": "country",
     "example": "",
@@ -480,7 +480,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "personal-information_5",
     "word": "le lieu de naissance",
     "translation": "place of birth",
     "example": "",
@@ -488,7 +488,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "personal-information_6",
     "word": "la date de naissance",
     "translation": "date of birth",
     "example": "",
@@ -496,7 +496,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "personal-information_7",
     "word": "la profession",
     "translation": "profession, job",
     "example": "",
@@ -504,7 +504,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "personal-information_8",
     "word": "l’homme",
     "translation": "man",
     "example": "",
@@ -512,7 +512,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "personal-information_9",
     "word": "la femme",
     "translation": "woman",
     "example": "",
@@ -520,7 +520,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "personal-information_10",
     "word": "l’adulte",
     "translation": "adult",
     "example": "",
@@ -528,7 +528,7 @@
     "language": "french"
   },
   {
-    "id": 11,
+    "id": "personal-information_11",
     "word": "l’enfant",
     "translation": "child",
     "example": "",
@@ -536,7 +536,7 @@
     "language": "french"
   },
   {
-    "id": 1,
+    "id": "communication_1",
     "word": "Salut !",
     "translation": "Hi!",
     "example": "",
@@ -544,7 +544,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "communication_2",
     "word": "Bonjour !",
     "translation": "Hello!",
     "example": "",
@@ -552,7 +552,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "communication_3",
     "word": "Au revoir !",
     "translation": "Goodbye! / Bye!",
     "example": "",
@@ -560,7 +560,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "communication_4",
     "word": "Merci !",
     "translation": "Thank you!",
     "example": "",
@@ -568,7 +568,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "communication_5",
     "word": "S'il vous plaît ! / S'il te plaît !",
     "translation": "Please!",
     "example": "",
@@ -576,7 +576,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "communication_6",
     "word": "Pardon !",
     "translation": "Sorry!",
     "example": "",
@@ -584,7 +584,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "communication_7",
     "word": "Arrête !",
     "translation": "Stop!",
     "example": "",
@@ -592,7 +592,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "communication_8",
     "word": "Attention !",
     "translation": "Caution!",
     "example": "",
@@ -600,7 +600,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "communication_9",
     "word": "oui",
     "translation": "yes",
     "example": "",
@@ -608,7 +608,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "communication_10",
     "word": "non",
     "translation": "no",
     "example": "",
@@ -616,7 +616,7 @@
     "language": "french"
   },
   {
-    "id": 1,
+    "id": "food_1",
     "word": "le repas",
     "translation": "food",
     "example": "",
@@ -624,7 +624,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "food_2",
     "word": "le restaurant",
     "translation": "restaurant",
     "example": "",
@@ -632,7 +632,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "food_3",
     "word": "le café",
     "translation": "café",
     "example": "",
@@ -640,7 +640,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "food_4",
     "word": "le bar",
     "translation": "bar",
     "example": "",
@@ -648,7 +648,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "food_5",
     "word": "le menu",
     "translation": "menu",
     "example": "",
@@ -656,7 +656,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "food_6",
     "word": "l’entrée",
     "translation": "starter",
     "example": "",
@@ -664,7 +664,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "food_7",
     "word": "le plat principal",
     "translation": "main course",
     "example": "",
@@ -672,7 +672,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "food_8",
     "word": "le dessert",
     "translation": "dessert",
     "example": "",
@@ -680,7 +680,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "food_9",
     "word": "l’addition",
     "translation": "bill",
     "example": "",
@@ -688,7 +688,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "food_10",
     "word": "végétarien(ne)",
     "translation": "vegetarian",
     "example": "",
@@ -696,7 +696,7 @@
     "language": "french"
   },
   {
-    "id": 11,
+    "id": "food_11",
     "word": "végan",
     "translation": "vegan",
     "example": "",
@@ -704,7 +704,7 @@
     "language": "french"
   },
   {
-    "id": 12,
+    "id": "food_12",
     "word": "sans gluten",
     "translation": "gluten-free",
     "example": "",
@@ -712,7 +712,7 @@
     "language": "french"
   },
   {
-    "id": 13,
+    "id": "food_13",
     "word": "le poisson",
     "translation": "fish",
     "example": "",
@@ -720,7 +720,7 @@
     "language": "french"
   },
   {
-    "id": 14,
+    "id": "food_14",
     "word": "la viande",
     "translation": "meat",
     "example": "",
@@ -728,7 +728,7 @@
     "language": "french"
   },
   {
-    "id": 15,
+    "id": "food_15",
     "word": "la salade",
     "translation": "salad",
     "example": "",
@@ -736,7 +736,7 @@
     "language": "french"
   },
   {
-    "id": 16,
+    "id": "food_16",
     "word": "le lait",
     "translation": "milk",
     "example": "",
@@ -744,7 +744,7 @@
     "language": "french"
   },
   {
-    "id": 17,
+    "id": "food_17",
     "word": "le fromage",
     "translation": "cheese",
     "example": "",
@@ -752,7 +752,7 @@
     "language": "french"
   },
   {
-    "id": 18,
+    "id": "food_18",
     "word": "les fruits",
     "translation": "fruits",
     "example": "",
@@ -760,7 +760,7 @@
     "language": "french"
   },
   {
-    "id": 19,
+    "id": "food_19",
     "word": "les légumes",
     "translation": "vegetables",
     "example": "",
@@ -768,7 +768,7 @@
     "language": "french"
   },
   {
-    "id": 20,
+    "id": "food_20",
     "word": "les noix",
     "translation": "nuts",
     "example": "",
@@ -776,7 +776,7 @@
     "language": "french"
   },
   {
-    "id": 21,
+    "id": "food_21",
     "word": "le café",
     "translation": "coffee",
     "example": "",
@@ -784,7 +784,7 @@
     "language": "french"
   },
   {
-    "id": 22,
+    "id": "food_22",
     "word": "le thé",
     "translation": "tea",
     "example": "",
@@ -792,7 +792,7 @@
     "language": "french"
   },
   {
-    "id": 23,
+    "id": "food_23",
     "word": "l’eau",
     "translation": "water",
     "example": "",
@@ -800,7 +800,7 @@
     "language": "french"
   },
   {
-    "id": 24,
+    "id": "food_24",
     "word": "le vin",
     "translation": "wine",
     "example": "",
@@ -808,7 +808,7 @@
     "language": "french"
   },
   {
-    "id": 25,
+    "id": "food_25",
     "word": "la bière",
     "translation": "beer",
     "example": "",
@@ -816,7 +816,7 @@
     "language": "french"
   },
   {
-    "id": 26,
+    "id": "food_26",
     "word": "sans alcool",
     "translation": "non-alcoholic",
     "example": "",
@@ -824,7 +824,7 @@
     "language": "french"
   },
   {
-    "id": 27,
+    "id": "food_27",
     "word": "À ta santé !",
     "translation": "Cheers!",
     "example": "",
@@ -832,7 +832,7 @@
     "language": "french"
   },
   {
-    "id": 1,
+    "id": "verb_1",
     "word": "travailler",
     "translation": "to work",
     "example": "",
@@ -840,7 +840,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "verb_2",
     "word": "visiter",
     "translation": "to visit",
     "example": "",
@@ -848,7 +848,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "verb_3",
     "word": "rester",
     "translation": "to stay",
     "example": "",
@@ -856,7 +856,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "verb_4",
     "word": "avoir besoin de",
     "translation": "to need",
     "example": "",
@@ -864,7 +864,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "verb_5",
     "word": "manger",
     "translation": "to eat",
     "example": "",
@@ -872,7 +872,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "verb_6",
     "word": "demander",
     "translation": "to ask",
     "example": "",
@@ -880,7 +880,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "verb_7",
     "word": "donner",
     "translation": "to give",
     "example": "",
@@ -888,7 +888,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "verb_8",
     "word": "aller",
     "translation": "to go",
     "example": "",
@@ -896,7 +896,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "verb_9",
     "word": "avoir",
     "translation": "to have",
     "example": "",
@@ -904,7 +904,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "verb_10",
     "word": "acheter",
     "translation": "to buy",
     "example": "",
@@ -912,7 +912,7 @@
     "language": "french"
   },
   {
-    "id": 11,
+    "id": "verb_11",
     "word": "pouvoir",
     "translation": "(I/you/we/they) can",
     "example": "",
@@ -920,7 +920,7 @@
     "language": "french"
   },
   {
-    "id": 12,
+    "id": "verb_12",
     "word": "apprendre",
     "translation": "to learn",
     "example": "",
@@ -928,7 +928,7 @@
     "language": "french"
   },
   {
-    "id": 13,
+    "id": "verb_13",
     "word": "faire",
     "translation": "to make",
     "example": "",
@@ -936,7 +936,7 @@
     "language": "french"
   },
   {
-    "id": 14,
+    "id": "verb_14",
     "word": "prendre",
     "translation": "to take",
     "example": "",
@@ -944,7 +944,7 @@
     "language": "french"
   },
   {
-    "id": 15,
+    "id": "verb_15",
     "word": "dire",
     "translation": "to say",
     "example": "",
@@ -952,7 +952,7 @@
     "language": "french"
   },
   {
-    "id": 16,
+    "id": "verb_16",
     "word": "écrire",
     "translation": "to write",
     "example": "",
@@ -960,7 +960,7 @@
     "language": "french"
   },
   {
-    "id": 17,
+    "id": "verb_17",
     "word": "voir",
     "translation": "to see",
     "example": "",
@@ -968,7 +968,7 @@
     "language": "french"
   },
   {
-    "id": 18,
+    "id": "verb_18",
     "word": "être",
     "translation": "to be",
     "example": "",
@@ -976,7 +976,7 @@
     "language": "french"
   },
   {
-    "id": 19,
+    "id": "verb_19",
     "word": "chercher",
     "translation": "to search",
     "example": "",
@@ -984,7 +984,7 @@
     "language": "french"
   },
   {
-    "id": 20,
+    "id": "verb_20",
     "word": "téléphoner",
     "translation": "to call",
     "example": "",
@@ -992,7 +992,7 @@
     "language": "french"
   },
   {
-    "id": 21,
+    "id": "verb_21",
     "word": "boire",
     "translation": "to drink",
     "example": "",
@@ -1000,7 +1000,7 @@
     "language": "french"
   },
   {
-    "id": 22,
+    "id": "verb_22",
     "word": "savoir",
     "translation": "to know",
     "example": "",
@@ -1008,7 +1008,7 @@
     "language": "french"
   },
   {
-    "id": 23,
+    "id": "verb_23",
     "word": "vouloir",
     "translation": "to want",
     "example": "",
@@ -1016,7 +1016,7 @@
     "language": "french"
   },
   {
-    "id": 24,
+    "id": "verb_24",
     "word": "payer",
     "translation": "to pay",
     "example": "",
@@ -1024,7 +1024,7 @@
     "language": "french"
   },
   {
-    "id": 1,
+    "id": "transport_1",
     "word": "le train",
     "translation": "train",
     "example": "",
@@ -1032,7 +1032,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "transport_2",
     "word": "le bus",
     "translation": "bus",
     "example": "",
@@ -1040,7 +1040,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "transport_3",
     "word": "la voiture",
     "translation": "car",
     "example": "",
@@ -1048,7 +1048,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "transport_4",
     "word": "le tramway",
     "translation": "tram",
     "example": "",
@@ -1056,7 +1056,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "transport_5",
     "word": "le taxi",
     "translation": "taxi, cab",
     "example": "",
@@ -1064,7 +1064,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "transport_6",
     "word": "le vélo",
     "translation": "bicycle",
     "example": "",
@@ -1072,7 +1072,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "transport_7",
     "word": "à pied",
     "translation": "on foot",
     "example": "",
@@ -1080,7 +1080,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "transport_8",
     "word": "la gare",
     "translation": "train station",
     "example": "",
@@ -1088,7 +1088,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "transport_9",
     "word": "la gare routière",
     "translation": "bus station",
     "example": "",
@@ -1096,7 +1096,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "transport_10",
     "word": "la station",
     "translation": "stop",
     "example": "",
@@ -1104,7 +1104,7 @@
     "language": "french"
   },
   {
-    "id": 1,
+    "id": "sentences_1",
     "word": "Qu’est-ce que c’est ... ?",
     "translation": "What is …?",
     "example": "",
@@ -1112,7 +1112,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "sentences_2",
     "word": "Où est ... ?",
     "translation": "Where is …?",
     "example": "",
@@ -1120,7 +1120,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "sentences_3",
     "word": "Comment …?",
     "translation": "How …?",
     "example": "",
@@ -1128,7 +1128,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "sentences_4",
     "word": "Ça coûte combien ?",
     "translation": "How much is it?",
     "example": "",
@@ -1136,7 +1136,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "sentences_5",
     "word": "Ça prendra combien de temps ?",
     "translation": "How long does it take?",
     "example": "",
@@ -1144,7 +1144,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "sentences_6",
     "word": "Il y a ... ?",
     "translation": "Is there …?",
     "example": "",
@@ -1152,7 +1152,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "sentences_7",
     "word": "Je voudrais ...",
     "translation": "I would like ...",
     "example": "",
@@ -1160,7 +1160,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "sentences_8",
     "word": "J'ai besoin de ...",
     "translation": "I need ...",
     "example": "",
@@ -1168,7 +1168,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "sentences_9",
     "word": "Pas de problème !",
     "translation": "No problem!",
     "example": "",
@@ -1176,7 +1176,7 @@
     "language": "french"
   },
   {
-    "id": 1,
+    "id": "adjective_1",
     "word": "bon(ne)",
     "translation": "good",
     "example": "",
@@ -1184,7 +1184,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "adjective_2",
     "word": "mauvais(e)",
     "translation": "bad",
     "example": "",
@@ -1192,7 +1192,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "adjective_3",
     "word": "nouveau/nouvelle",
     "translation": "new",
     "example": "",
@@ -1200,7 +1200,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "adjective_4",
     "word": "vieux/vieille",
     "translation": "old",
     "example": "",
@@ -1208,7 +1208,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "adjective_5",
     "word": "jeune",
     "translation": "young",
     "example": "",
@@ -1216,7 +1216,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "adjective_6",
     "word": "grand(e)",
     "translation": "big",
     "example": "",
@@ -1224,7 +1224,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "adjective_7",
     "word": "petit(e)",
     "translation": "small",
     "example": "",
@@ -1232,7 +1232,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "adjective_8",
     "word": "beau/belle",
     "translation": "beautiful",
     "example": "",
@@ -1240,7 +1240,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "adjective_9",
     "word": "pas cher/chère",
     "translation": "cheap",
     "example": "",
@@ -1248,7 +1248,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "adjective_10",
     "word": "cher/chère",
     "translation": "expensive",
     "example": "",
@@ -1256,7 +1256,7 @@
     "language": "french"
   },
   {
-    "id": 11,
+    "id": "adjective_11",
     "word": "sombre",
     "translation": "dark",
     "example": "",
@@ -1264,7 +1264,7 @@
     "language": "french"
   },
   {
-    "id": 12,
+    "id": "adjective_12",
     "word": "clair(e)",
     "translation": "bright",
     "example": "",
@@ -1272,7 +1272,7 @@
     "language": "french"
   },
   {
-    "id": 13,
+    "id": "adjective_13",
     "word": "ensemble",
     "translation": "together",
     "example": "",
@@ -1280,7 +1280,7 @@
     "language": "french"
   },
   {
-    "id": 14,
+    "id": "adjective_14",
     "word": "séparé(e)",
     "translation": "separate",
     "example": "",
@@ -1288,7 +1288,7 @@
     "language": "french"
   },
   {
-    "id": 15,
+    "id": "adjective_15",
     "word": "important(e)",
     "translation": "important",
     "example": "",
@@ -1296,7 +1296,7 @@
     "language": "french"
   },
   {
-    "id": 16,
+    "id": "adjective_16",
     "word": "fatigué(e)",
     "translation": "tired",
     "example": "",
@@ -1304,7 +1304,7 @@
     "language": "french"
   },
   {
-    "id": 1,
+    "id": "surrounding_1",
     "word": "la maison",
     "translation": "house",
     "example": "",
@@ -1312,7 +1312,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "surrounding_2",
     "word": "l’appartement",
     "translation": "apartment",
     "example": "",
@@ -1320,7 +1320,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "surrounding_3",
     "word": "l’hôtel",
     "translation": "hotel",
     "example": "",
@@ -1328,7 +1328,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "surrounding_4",
     "word": "le musée",
     "translation": "museum",
     "example": "",
@@ -1336,7 +1336,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "surrounding_5",
     "word": "la plage",
     "translation": "beach",
     "example": "",
@@ -1344,7 +1344,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "surrounding_6",
     "word": "le forêt",
     "translation": "forest",
     "example": "",
@@ -1352,7 +1352,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "surrounding_7",
     "word": "la montagne",
     "translation": "mountain",
     "example": "",
@@ -1360,7 +1360,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "surrounding_8",
     "word": "le parc",
     "translation": "park",
     "example": "",
@@ -1368,7 +1368,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "surrounding_9",
     "word": "la rivière",
     "translation": "river",
     "example": "",
@@ -1376,7 +1376,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "surrounding_10",
     "word": "la mer",
     "translation": "sea",
     "example": "",
@@ -1384,7 +1384,7 @@
     "language": "french"
   },
   {
-    "id": 11,
+    "id": "surrounding_11",
     "word": "le lac",
     "translation": "lake",
     "example": "",
@@ -1392,7 +1392,7 @@
     "language": "french"
   },
   {
-    "id": 12,
+    "id": "surrounding_12",
     "word": "le temps",
     "translation": "weather",
     "example": "",
@@ -1400,7 +1400,7 @@
     "language": "french"
   },
   {
-    "id": 13,
+    "id": "surrounding_13",
     "word": "le soleil",
     "translation": "sun",
     "example": "",
@@ -1408,7 +1408,7 @@
     "language": "french"
   },
   {
-    "id": 14,
+    "id": "surrounding_14",
     "word": "la pluie",
     "translation": "rain",
     "example": "",
@@ -1416,7 +1416,7 @@
     "language": "french"
   },
   {
-    "id": 15,
+    "id": "surrounding_15",
     "word": "la neige",
     "translation": "snow",
     "example": "",
@@ -1424,7 +1424,7 @@
     "language": "french"
   },
   {
-    "id": 16,
+    "id": "surrounding_16",
     "word": "l’orage",
     "translation": "thunderstorm",
     "example": "",
@@ -1432,7 +1432,7 @@
     "language": "french"
   },
   {
-    "id": 1,
+    "id": "orientation_1",
     "word": "la direction",
     "translation": "direction",
     "example": "",
@@ -1440,7 +1440,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "orientation_2",
     "word": "l’entrée (f.)",
     "translation": "entrance",
     "example": "",
@@ -1448,7 +1448,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "orientation_3",
     "word": "la sortie",
     "translation": "exit",
     "example": "",
@@ -1456,7 +1456,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "orientation_4",
     "word": "la rue",
     "translation": "street",
     "example": "",
@@ -1464,7 +1464,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "orientation_5",
     "word": "le chemin",
     "translation": "way",
     "example": "",
@@ -1472,7 +1472,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "orientation_6",
     "word": "la place",
     "translation": "square",
     "example": "",
@@ -1480,7 +1480,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "orientation_7",
     "word": "à droite",
     "translation": "right",
     "example": "",
@@ -1488,7 +1488,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "orientation_8",
     "word": "à gauche",
     "translation": "left",
     "example": "",
@@ -1496,7 +1496,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "orientation_9",
     "word": "tout droit",
     "translation": "straight ahead",
     "example": "",
@@ -1504,7 +1504,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "orientation_10",
     "word": "retour",
     "translation": "back",
     "example": "",
@@ -1512,7 +1512,7 @@
     "language": "french"
   },
   {
-    "id": 1,
+    "id": "numbers_1",
     "word": "un",
     "translation": "one",
     "example": "",
@@ -1520,7 +1520,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "numbers_2",
     "word": "deux",
     "translation": "two",
     "example": "",
@@ -1528,7 +1528,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "numbers_3",
     "word": "trois",
     "translation": "three",
     "example": "",
@@ -1536,7 +1536,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "numbers_4",
     "word": "quatre",
     "translation": "four",
     "example": "",
@@ -1544,7 +1544,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "numbers_5",
     "word": "cinq",
     "translation": "five",
     "example": "",
@@ -1552,7 +1552,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "numbers_6",
     "word": "six",
     "translation": "six",
     "example": "",
@@ -1560,7 +1560,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "numbers_7",
     "word": "sept",
     "translation": "seven",
     "example": "",
@@ -1568,7 +1568,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "numbers_8",
     "word": "huit",
     "translation": "eight",
     "example": "",
@@ -1576,7 +1576,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "numbers_9",
     "word": "neuf",
     "translation": "nine",
     "example": "",
@@ -1584,7 +1584,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "numbers_10",
     "word": "dix",
     "translation": "ten",
     "example": "",
@@ -1592,7 +1592,7 @@
     "language": "french"
   },
   {
-    "id": 11,
+    "id": "numbers_11",
     "word": "vingt",
     "translation": "twenty",
     "example": "",
@@ -1600,7 +1600,7 @@
     "language": "french"
   },
   {
-    "id": 12,
+    "id": "numbers_12",
     "word": "cinquante",
     "translation": "fifty",
     "example": "",
@@ -1608,7 +1608,7 @@
     "language": "french"
   },
   {
-    "id": 13,
+    "id": "numbers_13",
     "word": "cent",
     "translation": "hundred",
     "example": "",
@@ -1616,7 +1616,7 @@
     "language": "french"
   },
   {
-    "id": 14,
+    "id": "numbers_14",
     "word": "mille",
     "translation": "thousand",
     "example": "",

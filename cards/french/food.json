@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "food_1",
     "word": "le repas",
     "translation": "food",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "food_2",
     "word": "le restaurant",
     "translation": "restaurant",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "food_3",
     "word": "le café",
     "translation": "café",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "food_4",
     "word": "le bar",
     "translation": "bar",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "food_5",
     "word": "le menu",
     "translation": "menu",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "food_6",
     "word": "l’entrée",
     "translation": "starter",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "food_7",
     "word": "le plat principal",
     "translation": "main course",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "food_8",
     "word": "le dessert",
     "translation": "dessert",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "food_9",
     "word": "l’addition",
     "translation": "bill",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "food_10",
     "word": "végétarien(ne)",
     "translation": "vegetarian",
     "example": "",
@@ -80,7 +80,7 @@
     "language": "french"
   },
   {
-    "id": 11,
+    "id": "food_11",
     "word": "végan",
     "translation": "vegan",
     "example": "",
@@ -88,7 +88,7 @@
     "language": "french"
   },
   {
-    "id": 12,
+    "id": "food_12",
     "word": "sans gluten",
     "translation": "gluten-free",
     "example": "",
@@ -96,7 +96,7 @@
     "language": "french"
   },
   {
-    "id": 13,
+    "id": "food_13",
     "word": "le poisson",
     "translation": "fish",
     "example": "",
@@ -104,7 +104,7 @@
     "language": "french"
   },
   {
-    "id": 14,
+    "id": "food_14",
     "word": "la viande",
     "translation": "meat",
     "example": "",
@@ -112,7 +112,7 @@
     "language": "french"
   },
   {
-    "id": 15,
+    "id": "food_15",
     "word": "la salade",
     "translation": "salad",
     "example": "",
@@ -120,7 +120,7 @@
     "language": "french"
   },
   {
-    "id": 16,
+    "id": "food_16",
     "word": "le lait",
     "translation": "milk",
     "example": "",
@@ -128,7 +128,7 @@
     "language": "french"
   },
   {
-    "id": 17,
+    "id": "food_17",
     "word": "le fromage",
     "translation": "cheese",
     "example": "",
@@ -136,7 +136,7 @@
     "language": "french"
   },
   {
-    "id": 18,
+    "id": "food_18",
     "word": "les fruits",
     "translation": "fruits",
     "example": "",
@@ -144,7 +144,7 @@
     "language": "french"
   },
   {
-    "id": 19,
+    "id": "food_19",
     "word": "les légumes",
     "translation": "vegetables",
     "example": "",
@@ -152,7 +152,7 @@
     "language": "french"
   },
   {
-    "id": 20,
+    "id": "food_20",
     "word": "les noix",
     "translation": "nuts",
     "example": "",
@@ -160,7 +160,7 @@
     "language": "french"
   },
   {
-    "id": 21,
+    "id": "food_21",
     "word": "le café",
     "translation": "coffee",
     "example": "",
@@ -168,7 +168,7 @@
     "language": "french"
   },
   {
-    "id": 22,
+    "id": "food_22",
     "word": "le thé",
     "translation": "tea",
     "example": "",
@@ -176,7 +176,7 @@
     "language": "french"
   },
   {
-    "id": 23,
+    "id": "food_23",
     "word": "l’eau",
     "translation": "water",
     "example": "",
@@ -184,7 +184,7 @@
     "language": "french"
   },
   {
-    "id": 24,
+    "id": "food_24",
     "word": "le vin",
     "translation": "wine",
     "example": "",
@@ -192,7 +192,7 @@
     "language": "french"
   },
   {
-    "id": 25,
+    "id": "food_25",
     "word": "la bière",
     "translation": "beer",
     "example": "",
@@ -200,7 +200,7 @@
     "language": "french"
   },
   {
-    "id": 26,
+    "id": "food_26",
     "word": "sans alcool",
     "translation": "non-alcoholic",
     "example": "",
@@ -208,7 +208,7 @@
     "language": "french"
   },
   {
-    "id": 27,
+    "id": "food_27",
     "word": "À ta santé !",
     "translation": "Cheers!",
     "example": "",

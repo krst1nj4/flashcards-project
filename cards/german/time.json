@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "time_1",
     "word": "Zeit",
     "translation": "time",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "german"
   },
   {
-    "id": 2,
+    "id": "time_2",
     "word": "der Tag",
     "translation": "day",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "german"
   },
   {
-    "id": 3,
+    "id": "time_3",
     "word": "die Woche",
     "translation": "week",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "german"
   },
   {
-    "id": 4,
+    "id": "time_4",
     "word": "der Monat",
     "translation": "month",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "german"
   },
   {
-    "id": 5,
+    "id": "time_5",
     "word": "das Jahr",
     "translation": "year",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "german"
   },
   {
-    "id": 6,
+    "id": "time_6",
     "word": "Montag",
     "translation": "Monday",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "german"
   },
   {
-    "id": 7,
+    "id": "time_7",
     "word": "Dienstag",
     "translation": "Tuesday",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "german"
   },
   {
-    "id": 8,
+    "id": "time_8",
     "word": "Mittwoch",
     "translation": "Wednesday",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "german"
   },
   {
-    "id": 9,
+    "id": "time_9",
     "word": "Donnerstag",
     "translation": "Thursday",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "german"
   },
   {
-    "id": 10,
+    "id": "time_10",
     "word": "Freitag",
     "translation": "Friday",
     "example": "",
@@ -80,7 +80,7 @@
     "language": "german"
   },
   {
-    "id": 11,
+    "id": "time_11",
     "word": "Samstag",
     "translation": "Saturday",
     "example": "",
@@ -88,7 +88,7 @@
     "language": "german"
   },
   {
-    "id": 12,
+    "id": "time_12",
     "word": "Sonntag",
     "translation": "Sunday",
     "example": "",
@@ -96,7 +96,7 @@
     "language": "german"
   },
   {
-    "id": 13,
+    "id": "time_13",
     "word": "morgens",
     "translation": "in the morning",
     "example": "",
@@ -104,7 +104,7 @@
     "language": "german"
   },
   {
-    "id": 14,
+    "id": "time_14",
     "word": "nachmittags",
     "translation": "in the afternoon",
     "example": "",
@@ -112,7 +112,7 @@
     "language": "german"
   },
   {
-    "id": 15,
+    "id": "time_15",
     "word": "abends",
     "translation": "in the evening",
     "example": "",
@@ -120,7 +120,7 @@
     "language": "german"
   },
   {
-    "id": 16,
+    "id": "time_16",
     "word": "nachts",
     "translation": "at night",
     "example": "",
@@ -128,7 +128,7 @@
     "language": "german"
   },
   {
-    "id": 17,
+    "id": "time_17",
     "word": "früher",
     "translation": "earlier",
     "example": "",
@@ -136,7 +136,7 @@
     "language": "german"
   },
   {
-    "id": 18,
+    "id": "time_18",
     "word": "später",
     "translation": "later",
     "example": "",
@@ -144,7 +144,7 @@
     "language": "german"
   },
   {
-    "id": 19,
+    "id": "time_19",
     "word": "pünktlich",
     "translation": "on time",
     "example": "",
@@ -152,7 +152,7 @@
     "language": "german"
   },
   {
-    "id": 20,
+    "id": "time_20",
     "word": "verspätet",
     "translation": "delayed",
     "example": "",

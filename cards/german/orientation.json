@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "orientation_1",
     "word": "die Richtung",
     "translation": "direction",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "german"
   },
   {
-    "id": 2,
+    "id": "orientation_2",
     "word": "der Eingang",
     "translation": "entrance",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "german"
   },
   {
-    "id": 3,
+    "id": "orientation_3",
     "word": "der Ausgang",
     "translation": "exit",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "german"
   },
   {
-    "id": 4,
+    "id": "orientation_4",
     "word": "die Straße",
     "translation": "street",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "german"
   },
   {
-    "id": 5,
+    "id": "orientation_5",
     "word": "der Weg",
     "translation": "way",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "german"
   },
   {
-    "id": 6,
+    "id": "orientation_6",
     "word": "der Platz",
     "translation": "square",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "german"
   },
   {
-    "id": 7,
+    "id": "orientation_7",
     "word": "rechts",
     "translation": "right",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "german"
   },
   {
-    "id": 8,
+    "id": "orientation_8",
     "word": "links",
     "translation": "left",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "german"
   },
   {
-    "id": 9,
+    "id": "orientation_9",
     "word": "geradeaus",
     "translation": "straight ahead",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "german"
   },
   {
-    "id": 10,
+    "id": "orientation_10",
     "word": "zurück",
     "translation": "back",
     "example": "",

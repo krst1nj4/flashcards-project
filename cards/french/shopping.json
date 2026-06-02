@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "shopping_1",
     "word": "le supermarché",
     "translation": "supermarket",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "shopping_2",
     "word": "l’argent",
     "translation": "cash",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "shopping_3",
     "word": "la carte bancaire",
     "translation": "bank card",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "shopping_4",
     "word": "le sac",
     "translation": "bag",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "shopping_5",
     "word": "le tampon",
     "translation": "tampon",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "shopping_6",
     "word": "la serviette hygiénique",
     "translation": "(sanitary) pad",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "shopping_7",
     "word": "le préservatif",
     "translation": "condom",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "shopping_8",
     "word": "la brosse à dents",
     "translation": "toothbrush",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "shopping_9",
     "word": "l’aide",
     "translation": "help",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "shopping_10",
     "word": "la police",
     "translation": "police",
     "example": "",

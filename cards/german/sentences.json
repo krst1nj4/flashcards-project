@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "sentences_1",
     "word": "Was ist…?",
     "translation": "What is …?",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "german"
   },
   {
-    "id": 2,
+    "id": "sentences_2",
     "word": "Wo ist …?",
     "translation": "Where is …?",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "german"
   },
   {
-    "id": 3,
+    "id": "sentences_3",
     "word": "Wie …?",
     "translation": "How …?",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "german"
   },
   {
-    "id": 4,
+    "id": "sentences_4",
     "word": "Wie viel kostet es?",
     "translation": "How much is it?",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "german"
   },
   {
-    "id": 5,
+    "id": "sentences_5",
     "word": "Wie lange dauert es?",
     "translation": "How long does it take?",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "german"
   },
   {
-    "id": 6,
+    "id": "sentences_6",
     "word": "Gibt es …?",
     "translation": "Is there …?",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "german"
   },
   {
-    "id": 7,
+    "id": "sentences_7",
     "word": "Ich hätte gerne …",
     "translation": "I would like ...",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "german"
   },
   {
-    "id": 8,
+    "id": "sentences_8",
     "word": "Ich brauche …",
     "translation": "I need ...",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "german"
   },
   {
-    "id": 9,
+    "id": "sentences_9",
     "word": "Kein Problem!",
     "translation": "No problem!",
     "example": "",

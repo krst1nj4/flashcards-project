@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "technology_1",
     "word": "l’internet",
     "translation": "internet",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "technology_2",
     "word": "le mot de passe",
     "translation": "password",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "technology_3",
     "word": "l’ordinateur",
     "translation": "computer",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "technology_4",
     "word": "la prise",
     "translation": "socket",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "technology_5",
     "word": "charger",
     "translation": "to recharge",
     "example": "",

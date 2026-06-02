@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "communication_1",
     "word": "Hallo!",
     "translation": "Hi!",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "german"
   },
   {
-    "id": 2,
+    "id": "communication_2",
     "word": "Guten Tag!",
     "translation": "Hello!",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "german"
   },
   {
-    "id": 3,
+    "id": "communication_3",
     "word": "Tschüß!",
     "translation": "Goodbye! / Bye!",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "german"
   },
   {
-    "id": 4,
+    "id": "communication_4",
     "word": "Danke!",
     "translation": "Thank you!",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "german"
   },
   {
-    "id": 5,
+    "id": "communication_5",
     "word": "Bitte!",
     "translation": "Please!",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "german"
   },
   {
-    "id": 6,
+    "id": "communication_6",
     "word": "Entschuldigung!",
     "translation": "Sorry!",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "german"
   },
   {
-    "id": 7,
+    "id": "communication_7",
     "word": "Stopp!",
     "translation": "Stop!",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "german"
   },
   {
-    "id": 8,
+    "id": "communication_8",
     "word": "Vorsicht!",
     "translation": "Caution!",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "german"
   },
   {
-    "id": 9,
+    "id": "communication_9",
     "word": "ja",
     "translation": "yes",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "german"
   },
   {
-    "id": 10,
+    "id": "communication_10",
     "word": "nein",
     "translation": "no",
     "example": "",

@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "adjective_1",
     "word": "bon(ne)",
     "translation": "good",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "adjective_2",
     "word": "mauvais(e)",
     "translation": "bad",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "adjective_3",
     "word": "nouveau/nouvelle",
     "translation": "new",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "adjective_4",
     "word": "vieux/vieille",
     "translation": "old",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "adjective_5",
     "word": "jeune",
     "translation": "young",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "adjective_6",
     "word": "grand(e)",
     "translation": "big",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "adjective_7",
     "word": "petit(e)",
     "translation": "small",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "adjective_8",
     "word": "beau/belle",
     "translation": "beautiful",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "adjective_9",
     "word": "pas cher/chère",
     "translation": "cheap",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "adjective_10",
     "word": "cher/chère",
     "translation": "expensive",
     "example": "",
@@ -80,7 +80,7 @@
     "language": "french"
   },
   {
-    "id": 11,
+    "id": "adjective_11",
     "word": "sombre",
     "translation": "dark",
     "example": "",
@@ -88,7 +88,7 @@
     "language": "french"
   },
   {
-    "id": 12,
+    "id": "adjective_12",
     "word": "clair(e)",
     "translation": "bright",
     "example": "",
@@ -96,7 +96,7 @@
     "language": "french"
   },
   {
-    "id": 13,
+    "id": "adjective_13",
     "word": "ensemble",
     "translation": "together",
     "example": "",
@@ -104,7 +104,7 @@
     "language": "french"
   },
   {
-    "id": 14,
+    "id": "adjective_14",
     "word": "séparé(e)",
     "translation": "separate",
     "example": "",
@@ -112,7 +112,7 @@
     "language": "french"
   },
   {
-    "id": 15,
+    "id": "adjective_15",
     "word": "important(e)",
     "translation": "important",
     "example": "",
@@ -120,7 +120,7 @@
     "language": "french"
   },
   {
-    "id": 16,
+    "id": "adjective_16",
     "word": "fatigué(e)",
     "translation": "tired",
     "example": "",

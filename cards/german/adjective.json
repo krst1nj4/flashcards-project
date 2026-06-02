@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "adjective_1",
     "word": "gut",
     "translation": "good",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "german"
   },
   {
-    "id": 2,
+    "id": "adjective_2",
     "word": "schlecht",
     "translation": "bad",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "german"
   },
   {
-    "id": 3,
+    "id": "adjective_3",
     "word": "neu",
     "translation": "new",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "german"
   },
   {
-    "id": 4,
+    "id": "adjective_4",
     "word": "alt",
     "translation": "old",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "german"
   },
   {
-    "id": 5,
+    "id": "adjective_5",
     "word": "jung",
     "translation": "young",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "german"
   },
   {
-    "id": 6,
+    "id": "adjective_6",
     "word": "groß",
     "translation": "big",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "german"
   },
   {
-    "id": 7,
+    "id": "adjective_7",
     "word": "klein",
     "translation": "small",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "german"
   },
   {
-    "id": 8,
+    "id": "adjective_8",
     "word": "schön",
     "translation": "beautiful",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "german"
   },
   {
-    "id": 9,
+    "id": "adjective_9",
     "word": "billig",
     "translation": "cheap",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "german"
   },
   {
-    "id": 10,
+    "id": "adjective_10",
     "word": "teuer",
     "translation": "expensive",
     "example": "",
@@ -80,7 +80,7 @@
     "language": "german"
   },
   {
-    "id": 11,
+    "id": "adjective_11",
     "word": "dunkel",
     "translation": "dark",
     "example": "",
@@ -88,7 +88,7 @@
     "language": "german"
   },
   {
-    "id": 12,
+    "id": "adjective_12",
     "word": "hell",
     "translation": "bright",
     "example": "",
@@ -96,7 +96,7 @@
     "language": "german"
   },
   {
-    "id": 13,
+    "id": "adjective_13",
     "word": "zusammen",
     "translation": "together",
     "example": "",
@@ -104,7 +104,7 @@
     "language": "german"
   },
   {
-    "id": 14,
+    "id": "adjective_14",
     "word": "getrennt",
     "translation": "separate",
     "example": "",
@@ -112,7 +112,7 @@
     "language": "german"
   },
   {
-    "id": 15,
+    "id": "adjective_15",
     "word": "wichtig",
     "translation": "important",
     "example": "",
@@ -120,7 +120,7 @@
     "language": "german"
   },
   {
-    "id": 16,
+    "id": "adjective_16",
     "word": "müde",
     "translation": "tired",
     "example": "",

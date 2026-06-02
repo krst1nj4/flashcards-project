@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "sentences_1",
     "word": "Qu’est-ce que c’est ... ?",
     "translation": "What is …?",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "sentences_2",
     "word": "Où est ... ?",
     "translation": "Where is …?",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "sentences_3",
     "word": "Comment …?",
     "translation": "How …?",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "sentences_4",
     "word": "Ça coûte combien ?",
     "translation": "How much is it?",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "sentences_5",
     "word": "Ça prendra combien de temps ?",
     "translation": "How long does it take?",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "sentences_6",
     "word": "Il y a ... ?",
     "translation": "Is there …?",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "sentences_7",
     "word": "Je voudrais ...",
     "translation": "I would like ...",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "sentences_8",
     "word": "J'ai besoin de ...",
     "translation": "I need ...",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "sentences_9",
     "word": "Pas de problème !",
     "translation": "No problem!",
     "example": "",

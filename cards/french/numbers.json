@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "numbers_1",
     "word": "un",
     "translation": "one",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "french"
   },
   {
-    "id": 2,
+    "id": "numbers_2",
     "word": "deux",
     "translation": "two",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "french"
   },
   {
-    "id": 3,
+    "id": "numbers_3",
     "word": "trois",
     "translation": "three",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "french"
   },
   {
-    "id": 4,
+    "id": "numbers_4",
     "word": "quatre",
     "translation": "four",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "french"
   },
   {
-    "id": 5,
+    "id": "numbers_5",
     "word": "cinq",
     "translation": "five",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "french"
   },
   {
-    "id": 6,
+    "id": "numbers_6",
     "word": "six",
     "translation": "six",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "french"
   },
   {
-    "id": 7,
+    "id": "numbers_7",
     "word": "sept",
     "translation": "seven",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "french"
   },
   {
-    "id": 8,
+    "id": "numbers_8",
     "word": "huit",
     "translation": "eight",
     "example": "",
@@ -64,7 +64,7 @@
     "language": "french"
   },
   {
-    "id": 9,
+    "id": "numbers_9",
     "word": "neuf",
     "translation": "nine",
     "example": "",
@@ -72,7 +72,7 @@
     "language": "french"
   },
   {
-    "id": 10,
+    "id": "numbers_10",
     "word": "dix",
     "translation": "ten",
     "example": "",
@@ -80,7 +80,7 @@
     "language": "french"
   },
   {
-    "id": 11,
+    "id": "numbers_11",
     "word": "vingt",
     "translation": "twenty",
     "example": "",
@@ -88,7 +88,7 @@
     "language": "french"
   },
   {
-    "id": 12,
+    "id": "numbers_12",
     "word": "cinquante",
     "translation": "fifty",
     "example": "",
@@ -96,7 +96,7 @@
     "language": "french"
   },
   {
-    "id": 13,
+    "id": "numbers_13",
     "word": "cent",
     "translation": "hundred",
     "example": "",
@@ -104,7 +104,7 @@
     "language": "french"
   },
   {
-    "id": 14,
+    "id": "numbers_14",
     "word": "mille",
     "translation": "thousand",
     "example": "",

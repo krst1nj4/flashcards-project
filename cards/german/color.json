@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "color_1",
     "word": "Farbe",
     "translation": "color",
     "example": "",
@@ -8,7 +8,7 @@
     "language": "german"
   },
   {
-    "id": 2,
+    "id": "color_2",
     "word": "weiß",
     "translation": "white",
     "example": "",
@@ -16,7 +16,7 @@
     "language": "german"
   },
   {
-    "id": 3,
+    "id": "color_3",
     "word": "schwarz",
     "translation": "black",
     "example": "",
@@ -24,7 +24,7 @@
     "language": "german"
   },
   {
-    "id": 4,
+    "id": "color_4",
     "word": "rot",
     "translation": "red",
     "example": "",
@@ -32,7 +32,7 @@
     "language": "german"
   },
   {
-    "id": 5,
+    "id": "color_5",
     "word": "blau",
     "translation": "blue",
     "example": "",
@@ -40,7 +40,7 @@
     "language": "german"
   },
   {
-    "id": 6,
+    "id": "color_6",
     "word": "grün",
     "translation": "green",
     "example": "",
@@ -48,7 +48,7 @@
     "language": "german"
   },
   {
-    "id": 7,
+    "id": "color_7",
     "word": "gelb",
     "translation": "yellow",
     "example": "",
@@ -56,7 +56,7 @@
     "language": "german"
   },
   {
-    "id": 8,
+    "id": "color_8",
     "word": "bunt",
     "translation": "colorful",
     "example": "",

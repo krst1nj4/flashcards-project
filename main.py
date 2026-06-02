@@ -67,15 +67,15 @@ def show_languages():
     print("2. French")
 
     choice = input("> ").strip()
-
     if choice == "1":
-        show_categories("german")
-    
+        return "german"
     if choice == "2":
-        show_categories("french")
+        return "french"
+    
 
 def show_categories(language):
     clear()
+    categories = []
     if language == "german":
         categories = get_categories("cards/german")
  
@@ -91,10 +91,50 @@ def show_categories(language):
     if(choice == len(categories) + 1):
         clear()
         show_languages()
-        return None
+        return
     selected_category = categories[choice-1]
     return selected_category
-   
+
+def show_stats(cards, progress, category):
+    clear()
+    print("=" * 45)
+    print("STATS")
+    print("=" * 45)
+
+    sum_correct = 0
+    sum_false = 0
+
+    for card in cards:
+        entry = progress.get(str(card["id"]), {"level": 1, "correct": 0, "false": 0})
+        print(f"{card["word"]}, {entry["level"]}, {entry["correct"]}, {entry["false"]}")
+        sum_correct += entry["correct"]
+        sum_false += entry["false"]
+
+    if(sum_correct + sum_false == 0):
+        print("No practice yet!")
+        return
+
+    percentage = (sum_correct / (sum_correct + sum_false)) * 100
+    print(f"Percentage for this category: {percentage}")
+    input("Press Enter to go back...")
+
+def practice(cards, progress):
+    for card in cards:
+        clear()
+        print(f"{card["word"]}")
+
+        print("Do you know this?")
+        choice = input("(y/n) > ")
+        print(f"{card["translation"]}")
+        input("Press Enter to continue...")
+
+        if choice == "y":
+            level_up(card, True, progress)
+            save_progress(progress)
+        if choice == "n":
+            level_up(card, False, progress)
+            save_progress(progress)
+
 def show_menu():
     clear()
     print("=" * 45)
@@ -106,37 +146,38 @@ def show_menu():
     print("3. Back")
 
     choice = int(input(" > "))
-    if(choice == 1):
-        clear()
-        
-
-    if(choice == 2):
-        clear()
-        # show_stats()
-        return None
+    return choice
     
-    if(choice == 3):
-        clear()
-        show_categories()
-        return None
+def main_loop():
+    while True:
+        language = show_languages()
+        category = show_categories(language)
+        cards = open_cards(language, category)
+        progress = load_progress()
+
+        if category is None:
+            continue
+
+        while True:
+            choice = show_menu()
+            if choice == 1:
+                cards = order_by_priority(cards, progress)
+                practice(cards, progress)
+                print("No more cards. Return?")
+                choice_1 = input("(y/n) > ")
+                if(choice_1 == "y"):
+                    show_categories(language)
+                    continue
+                if(choice_1 == "n"):
+                    practice(cards, progress)
+            
+            if choice == 2:
+                show_stats(cards, progress, category)
+            
+            if choice == 3:
+                clear()
+                break
 
 
-# while True:
-#     if(screen == "language"):
-#         for cat in category:
-#             print(f"{category}")
-#         screen = "category"
-#         selected_language = language
-#         selected_category = category
-
-#     if (screen == "category"):
-#         print("Practice")
-#         print("Stats")
-#         print("Back")
-
-
-# 📝 practice(cards)          — vrti kartice jednu po jednu
-# 📝 update_score(card, knew) — ažurira Leitner nivo kartice
-
-# 📝 show_stats(cards)        — ispisuje statistiku za kategoriju
-# 📝 main()                   — glavni loop sa while True
+if __name__ == "__main__":
+    main_loop()
