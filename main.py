@@ -1,7 +1,7 @@
 import json
 import os
 import random
-from display import show_front, show_back, wait_for_button
+from display import show_front, show_back, wait_for_button, navigate_menu, show_screen
 
 def open_cards(language, category):
     path = f"cards/{language}/{category}.json"
@@ -59,65 +59,49 @@ def clear():
     os.system("clear")
 
 def show_languages():
-    clear()
-    print("=" * 45)
-    print("LANGUAGES")
-    print("=" * 45)
-    
-    print("\n1. German")
-    print("2. French")
-
-    choice = input("> ").strip()
-    if choice == "1":
+    options = ["German", "French"]
+    choice = navigate_menu(options)
+    if choice == 0:
         return "german"
-    if choice == "2":
+    if choice == 1:
         return "french"
-    
 
 def show_categories(language):
-    clear()
-    categories = []
     if language == "german":
         categories = get_categories("cards/german")
- 
     if language == "french":
         categories = get_categories("cards/french")
-
-    for i, cat in enumerate(categories):
-        print(f"{i + 1}> {cat}")
     
-    print(f"{len(categories) + 1} > Go back")
-
-    choice = int(input(" > "))
-    if(choice == len(categories) + 1):
-        clear()
-        show_languages()
-        return
-    selected_category = categories[choice-1]
-    return selected_category
+    options = categories + ["Go back"]
+    choice = navigate_menu(options)
+    
+    if choice == len(categories):
+        return None
+    return categories[choice]
 
 def show_stats(cards, progress, category):
-    clear()
-    print("=" * 45)
-    print("STATS")
-    print("=" * 45)
-
     sum_correct = 0
     sum_false = 0
 
     for card in cards:
         entry = progress.get(str(card["id"]), {"level": 1, "correct": 0, "false": 0})
-        print(f"{card["word"]}, {entry["level"]}, {entry["correct"]}, {entry["false"]}")
         sum_correct += entry["correct"]
         sum_false += entry["false"]
 
-    if(sum_correct + sum_false == 0):
-        print("No practice yet!")
+    if sum_correct + sum_false == 0:
+        show_screen(["STATS", "", "No practice yet!"])
+        wait_for_button()
         return
 
-    percentage = (sum_correct / (sum_correct + sum_false)) * 100
-    print(f"Percentage for this category: {percentage}")
-    input("Press Enter to go back...")
+    percentage = round((sum_correct / (sum_correct + sum_false)) * 100, 1)
+    show_screen([
+        "STATS",
+        "",
+        f"Correct: {sum_correct}",
+        f"Wrong: {sum_false}",
+        f"Score: {percentage}%"
+    ])
+    wait_for_button()
 
 def practice(cards, progress):
     for card in cards:
@@ -137,46 +121,26 @@ def practice(cards, progress):
 
 
 def show_menu():
-    clear()
-    print("=" * 45)
-    print("FLASHCARDS")
-    print("=" * 45)
-    
-    print("\n1. Practice")
-    print("2. Stats")
-    print("3. Back")
-
-    choice = int(input(" > "))
-    return choice
+    options = ["Practice", "Stats", "Back"]
+    return navigate_menu(options)
     
 def main_loop():
     while True:
         language = show_languages()
         category = show_categories(language)
-        cards = open_cards(language, category)
-        progress = load_progress()
-
         if category is None:
             continue
-
+        cards = open_cards(language, category)
+        
         while True:
+            progress = load_progress()
             choice = show_menu()
-            if choice == 1:
+            if choice == 0:
                 cards = order_by_priority(cards, progress)
                 practice(cards, progress)
-                print("No more cards. Return?")
-                choice_1 = input("(y/n) > ")
-                if(choice_1 == "y"):
-                    show_categories(language)
-                    continue
-                if(choice_1 == "n"):
-                    practice(cards, progress)
-            
-            if choice == 2:
+            if choice == 1:
                 show_stats(cards, progress, category)
-            
-            if choice == 3:
-                clear()
+            if choice == 2:
                 break
 
 

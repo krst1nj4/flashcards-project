@@ -59,3 +59,32 @@ def show_back(translation):
     draw.text((x, y), translation, font=font, fill=(255, 255, 255))
     img.save("/home/pi/screen.png")
     subprocess.run(["fbi", "-T", "1", "-d", "/dev/fb0", "-noverbose", "-a", "/home/pi/screen.png"])
+
+def show_menu_select(options, selected):
+    img = Image.new("RGB", (WIDTH, HEIGHT), color=(0, 0, 0))
+    draw = ImageDraw.Draw(img)
+    font = ImageFont.truetype(FONT_PATH, 30)
+    y = 20
+    for i, option in enumerate(options):
+        if i == selected:
+            draw.rectangle([(0, y), (WIDTH, y+35)], fill=(255, 255, 255))
+            draw.text((20, y), option, font=font, fill=(0, 0, 0))
+        else:
+            draw.text((20, y), option, font=font, fill=(255, 255, 255))
+        y += 50
+    img.save("/home/pi/screen.png")
+    subprocess.run(["fbi", "-T", "1", "-d", "/dev/fb0", "-noverbose", "-a", "/home/pi/screen.png"])
+
+def navigate_menu(options):
+    selected = 0
+    show_menu_select(options, selected)
+    while True:
+        button = wait_for_button()
+        if button == 1: 
+            selected = (selected - 1) % len(options)
+            show_menu_select(options, selected)
+        if button == 2: 
+            selected = (selected + 1) % len(options)
+            show_menu_select(options, selected)
+        if button == 3:  
+            return selected
